@@ -1,0 +1,3603 @@
+choir  ->  گروه کر
+pot  ->  گلدان
+frown  ->  اخم
+fix  ->  ثابت
+headline  ->  عنوان
+dinosaur  ->  دایناسور
+convict  ->  محکوم
+degrade  ->  تنزل دادن
+glimpse  ->  نظر اجمالی
+indicate  ->  نشان می دهد
+microscope  ->  میکروسکوپ
+crust  ->  پوسته
+testament  ->  وصیت نامه
+timid  ->  ترسو
+feed  ->  خوراک
+inhabitant  ->  آنها ساکن هستند
+vast  ->  وسیع
+shame  ->  شرم
+income  ->  درآمد
+throw  ->  پرت كردن
+receipt  ->  اعلام وصول
+craze  ->  جنون
+indifferent  ->  بي تفاوت
+corps  ->  سپاه
+jog  ->  دویدن
+commute  ->  رفت و آمد
+deceased  ->  مرحوم
+epidemic  ->  بیماری همه گیر
+whatsoever  ->  به هر حال
+cheer  ->  تشویق کردن
+yet  ->  هنوز
+executive  ->  اجرایی
+venture  ->  ریسک
+cognitive  ->  شناختی
+violence  ->  خشونت
+inform  ->  آگاه کردن
+advice  ->  مشاوره
+prepare  ->  آماده کردن
+outline  ->  طرح کلی
+grapefruit  ->  گریپ فروت
+enormous  ->  عظیم
+longevity  ->  طول عمر
+daisy  ->  دیزی
+upright  ->  عمودی
+perfect  ->  کامل
+overhead  ->  در بالای سر
+surgery  ->  عمل جراحي
+per  ->  مطابق
+publicize  ->  عمومی کردن
+peninsula  ->  شبه جزیره
+analytic  ->  تحلیلی
+damp  ->  مرطوب
+appetite  ->  اشتها، میل
+prod  ->  تولید
+penny  ->  پنی
+candle  ->  شمع
+i  ->  من
+exclude  ->  حذف کردن
+although  ->  با اينكه
+jail  ->  زندان
+companion  ->  همراه و همدم
+heed  ->  توجه
+geology  ->  زمين شناسي
+preliminary  ->  مقدماتی
+embrace  ->  پذیرفتن
+gentle  ->  ملایم
+swamp  ->  باتلاق
+irritate  ->  تحریک کردن
+obey  ->  اطاعت کن
+support  ->  پشتیبانی
+wardrobe  ->  جا رختی
+prevent  ->  جلوگیری کردن
+remark  ->  اظهار نظر
+electron  ->  الکترون
+rally  ->  تجمع
+random  ->  تصادفی
+pad  ->  پد
+folklore  ->  فرهنگ عامه
+deformed  ->  ناقص شده
+worse  ->  بدتر
+expedition  ->  اعزام
+soar  ->  اوج گرفتن
+oath  ->  سوگند - دشنام
+aquatic  ->  آبزی
+doubt  ->  شک
+archaic  ->  قدیمی، کهنه
+physics  ->  فیزیک
+private  ->  خصوصی
+flashlight  ->  چراغ قوه
+exaggerate  ->  اغراق کردن، مبالغه
+masterpiece  ->  شاهکار
+organic  ->  ارگانیک. آلی
+grin  ->  پوزخند
+terminal  ->  پایانه
+operate  ->  عمل کنند
+disseminate  ->  انتشار
+nope  ->  جواب منفی
+forthcoming  ->  آینده
+ambassador  ->  سفیر
+ignore  ->  چشم پوشی
+foresee  ->  پیش بینی
+mention  ->  اشاره
+adolescent  ->  نوجوان
+foul  ->  ناپاک
+colonel  ->  سرهنگ
+angle  ->  زاویه
+consumption  ->  مصرف
+overview  ->  بررسی اجمالی
+pill  ->  قرص
+optic  ->  نوری
+advertise  ->  تبلیغات
+hygienic  ->  بهداشتی
+err  ->  اشتباه کن
+comic  ->  کمیک
+cast  ->  قالب
+relevant  ->  مربوط
+pressure  ->  فشار
+loop  ->  حلقه
+battle  ->  نبرد
+bankrupt  ->  ورشکسته
+voice  ->  صدا
+fright  ->  ترس
+heap  ->  پشته
+torment  ->  عذاب
+consult  ->  مشورت کردن
+baggage  ->  بار سفر
+communicate  ->  برقراری ارتباط
+impair  ->  خدشه دار کردن
+fossil  ->  فسیلی
+deserve  ->  سزاوار
+feminine  ->  زنانه
+outlaw  ->  قانون شکن
+purpose  ->  هدف
+combat  ->  مبارزه کن
+mechanism  ->  سازوکار
+paraphrase  ->  تفسیر
+instant  ->  فوری
+fluid  ->  مایع
+sensation  ->  احساس
+exception  ->  استثنا
+airway  ->  راه تنفسی
+rapidly  ->  به طور سریع
+transaction  ->  معامله
+undermine  ->  تضعیف کردن
+ensure  ->  اطمینان حاصل شود
+acquire  ->  بدست آوردن
+alas  ->  افسوس
+certify  ->  گواهی کند
+epic  ->  حماسه
+nightmare  ->  کابوس
+generous  ->  سخاوتمندانه
+nurture  ->  پرورش دادن
+curious  ->  کنجکاو
+tomb  ->  مقبره
+contain  ->  حاوی
+convection  ->  همرفت
+ongoing  ->  در دست اقدام
+barrier  ->  مانع
+burn  ->  سوختن
+flat  ->  تخت
+tip  ->  نکته
+ahead  ->  در پیش
+tow  ->  دویدن
+biosphere  ->  زیست کره
+devise  ->  تدبیر
+theoretical  ->  نظری
+moderation  ->  اعتدال
+survive  ->  زنده ماندن
+thrust  ->  رانش
+offspring  ->  فرزندان
+semester  ->  نیمسال
+prime  ->  نخست
+introduce  ->  معرفی کنید
+gigantic  ->  غول پیکر
+drawback  ->  اشکال
+evenly  ->  به طور مساوی
+tidy  ->  مرتب
+smooth  ->  صاف
+stunt  ->  شیرین کاری
+scorn  ->  تمسخر
+conduct  ->  هدایت
+worthwhile  ->  با ارزش
+president  ->  رئيس جمهور
+talkative  ->  پرحرف
+scold  ->  سرزنش کردن
+dial  ->  شماره گیری کنید
+bang  ->  انفجار
+pneumonia  ->  پنومونی
+snap  ->  ضربه محکم و ناگهانی
+decent  ->  نجیب
+violent  ->  خشن
+leap  ->  جهش
+vomit  ->  استفراغ
+torture  ->  شکنجه
+compound  ->  ترکیب
+chimney  ->  دودکش
+reservoir  ->  مخزن
+glove  ->  دستکش
+society  ->  جامعه
+conversion  ->  تبدیل
+nest  ->  لانه
+diabetes  ->  دیابت
+imperative  ->  ضروری
+behave  ->  رفتار كردن
+eternal  ->  ابدی
+immense  ->  عظیم
+committee  ->  کمیته
+shallow  ->  کم عمق
+devastate  ->  ویران کردن
+mow  ->  چمن زنی
+bench  ->  نیمکت
+feedback  ->  بازخورد
+session  ->  جلسه
+substantial  ->  قابل توجه
+chronic  ->  مزمن
+eliminate  ->  از بین بردن
+rigid  ->  سفت و سخت
+elevate  ->  بالا بردن
+allot  ->  اختصاص دادن
+disgust  ->  انزجار
+compromise  ->  به خطر افتادن
+alliance  ->  اتحاد
+esteemed  ->  گرامی
+crisis  ->  بحران
+disgrace  ->  رسوایی
+glow  ->  درخشش
+confirm  ->  تایید
+erroneous  ->  اشتباه
+symphony  ->  سمفونی
+evidence  ->  شواهد و مدارک
+appreciate  ->  قدردانی
+cram  ->  توده
+statue  ->  مجسمه
+paltry  ->  ناچیز
+vigorous  ->  قوی
+combine  ->  ترکیب کردن
+sign  ->  امضاء کردن
+oversee  ->  نظارت کند
+abuse  ->  سو استفاده کردن
+grass  ->  چمن
+dormitory  ->  خوابگاه
+launch  ->  راه اندازی
+accident  ->  تصادف
+asleep  ->  خواب
+symbol  ->  نماد
+flow  ->  جریان
+horrifying  ->  وحشتناک
+hearty  ->  دلچسب
+accountant  ->  حسابدار
+iron  ->  اهن
+judgment  ->  داوری
+intent  ->  قصد
+freight  ->  حمل و نقل
+destruction  ->  تخریب
+dire  ->  وخیم
+petition  ->  دادخواست
+excerpt  ->  گزیده
+chunk  ->  تکه
+border  ->  مرز
+informal  ->  دوستانه و غیر رسمی
+contempt  ->  تحقیر
+depot  ->  انبار
+volunteer  ->  داوطلب
+informative  ->  آموزنده
+mainstream  ->  مسیر اصلی
+contact  ->  مخاطب
+hatred  ->  نفرت
+puddle  ->  گودال
+plunge  ->  غوطه
+ridicule  ->  تمسخر
+horn  ->  شیپور
+theft  ->  سرقت
+harm  ->  صدمه
+twist  ->  پیچ - پیچیدن
+vicious  ->  شریر، بدجنس، حیوان صفت
+pier  ->  اسکله
+mercy  ->  رحمت
+backstage  ->  پشت صحنه
+satire  ->  طنز
+leash  ->  افسار
+ethical  ->  اخلاقی
+outspoken  ->  صریح
+manufacture  ->  ساخت
+neutral  ->  خنثی
+charge  ->  شارژ
+tremendous  ->  عظیم
+satellite  ->  ماهواره
+gourmet  ->  لذیذ
+coordinate  ->  هماهنگ كردن
+notion  ->  ایده
+alert  ->  هشدار
+inn  ->  مسافرخانه
+tuck  ->  چفت کردن
+across  ->  در سراسر
+examine  ->  معاینه کردن
+phoenix  ->  ققنوس
+complicate  ->  پیچیده کردن
+board  ->  هیئت مدیره
+alternate  ->  متناوب
+dual  ->  دوگانه
+edible  ->  خوراکی
+fulfill  ->  برآورده کند
+plausible  ->  محتمل
+remorse  ->  پشیمانی
+enforce  ->  اجرا کنند
+dash  ->  خط تیره
+compress  ->  فشرده کردن
+surrender  ->  تسلیم شدن
+downtown  ->  مرکز شهر
+sophisticated  ->  پیچیده
+nowadays  ->  این روزها
+alone  ->  تنها
+mistake  ->  اشتباه
+appliance  ->  دستگاه
+wrestle  ->  کشتی گرفتن
+spin  ->  چرخش
+sheer  ->  خالص، ناب
+disappear  ->  ناپدید می شوند
+bundle  ->  دسته
+bulb  ->  لامپ
+benign  ->  خوش خیم
+consistent  ->  استوار
+replenish  ->  پر کردن
+robe  ->  لباس بلند و گشاد
+decision  ->  تصمیم گیری
+auditorium  ->  سالن نمایش
+conflict  ->  تعارض
+negotiate  ->  مذاکره کنند
+deception  ->  فریب
+penetrate  ->  نفوذ کند
+defend  ->  دفاع
+receive  ->  دريافت كردن
+billionaire  ->  میلیاردر
+lame  ->  لنگ
+consume  ->  مصرف کردن
+defense  ->  دفاع
+subconscious  ->  ناخودآگاه
+engrave  ->  حکاکی کردن
+savage  ->  وحشی
+furnace  ->  کوره
+sacrifice  ->  قربانی
+embryo  ->  جنین
+determine  ->  تعیین کنید
+climb  ->  بالا رفتن
+overlap  ->  همپوشانی
+disease  ->  مرض
+presently  ->  در حال حاضر
+bring  ->  آوردن
+restate  ->  دوباره بیان کنید
+extract  ->  استخراج کردن
+exchange  ->  تبادل
+incredulous  ->  بی اعتقاد
+subsidy  ->  یارانه
+wood  ->  چوب
+sober  ->  هوشیار
+list  ->  فهرست
+summit  ->  اجلاس - همایش
+beverage  ->  نوشیدنی
+longing  ->  اشتیاق
+terrific  ->  فوق العاده
+result  ->  نتیجه
+concede  ->  قبول کردن
+donor  ->  اهدا کننده
+quarter  ->  ربع
+mechanic  ->  مکانیک
+prior  ->  قبل
+establish  ->  تاسيس كردن
+sculpture  ->  مجسمه سازی
+canyon  ->  دره
+worship  ->  عبادت
+devoid  ->  خالی
+camouflage  ->  استتار
+hesitate  ->  تردید کنید
+item  ->  مورد
+simplicity  ->  سادگی
+kerosene  ->  نفت سفید
+accommodate  ->  تطبیق
+demand  ->  تقاضا
+forever  ->  برای همیشه
+compliment  ->  تعریف و تمجید
+bead  ->  مهره
+hardy  ->  مقاوم
+forge  ->  ساختن
+spite  ->  با وجود
+populate  ->  پر جمعیت کردن
+anew  ->  دوباره
+precaution  ->  احتیاط
+budget  ->  بودجه
+subtract  ->  تفریق کردن
+predict  ->  پیش بینی
+mend  ->  بهبودی یافتن
+remove  ->  برداشتن
+panic  ->  وحشت
+empty  ->  خالی
+intimate  ->  صمیمی
+wheel  ->  چرخ
+admit  ->  اقرار کردن
+deteriorate  ->  بدتر شدن
+significant  ->  قابل توجه
+decipher  ->  رمزگشایی
+blanket  ->  پتو
+chain  ->  زنجیر
+tattoo  ->  خال کوبی
+considerate  ->  با ملاحظه
+face  ->  صورت
+attack  ->  حمله کنند
+intricate  ->  پیچیده
+wide  ->  وسیع
+institution  ->  موسسه، نهاد
+delicate  ->  ظریف
+capitalist  ->  سرمایه دار
+doomed  ->  محکوم به فنا
+weather  ->  آب و هوا
+bliss  ->  سعادت
+solid  ->  جامد
+ghost  ->  روح
+qualify  ->  واجد شرایط شدن
+catastrophe  ->  فاجعه
+optimist  ->  خوش بین
+hound  ->  سگ شکاری
+disappoint  ->  ناامید کردن
+common  ->  مشترک
+overboard  ->  روی دریا
+shrine  ->  زیارتگاه
+kneel  ->  زانو زدن
+tool  ->  ابزار
+elusive  ->  گریزان
+pertain  ->  بستگی دارد
+intrinsic  ->  ذاتی
+aloud  ->  با صدای بلند
+authorize  ->  مجوز دادن
+cooperate  ->  همکاری کردن
+souvenir  ->  سوغات
+foreign  ->  خارجی
+despair  ->  ناامیدی
+safety  ->  ایمنی
+apparatus  ->  دستگاه
+impulse  ->  تکانه
+criticize  ->  انتقاد کنید
+blacksmith  ->  آهنگر
+asset  ->  دارایی
+specific  ->  خاص
+diploma  ->  دیپلم
+compensate  ->  جبران کردن
+coal  ->  زغال سنگ
+sprint  ->  دوی سرعت
+recall  ->  به خاطر آوردن
+valve  ->  شیر فلکه
+native  ->  بومی
+statistic  ->  آمار
+component  ->  جزء
+insulate  ->  عایق کردن
+midst  ->  وسط
+sleeve  ->  آستین
+shave  ->  تراشیدن
+crowd  ->  جمعیت
+tend  ->  تمایل
+stare  ->  خیره شدن
+adjust  ->  تنظیم کنید
+fare  ->  کرایه
+nurse  ->  پرستار
+primal  ->  اولیه
+habit  ->  عادت داشتن
+freeze  ->  یخ زدگی
+confer  ->  اهدا کردن
+contemporary  ->  امروزی
+stem  ->  ساقه
+predominant  ->  غالب
+spill  ->  ریختن
+sour  ->  ترش
+contaminate  ->  آلوده کردن
+curb  ->  محدود کردن
+faculty  ->  دانشکده
+greed  ->  طمع
+sentence  ->  جمله
+regulate  ->  تنظیم کند
+assess  ->  ارزیابی کنید
+content  ->  محتوا
+broad  ->  گسترده
+suppress  ->  سرکوب کردن
+render  ->  ارائه دادن
+skill  ->  مهارت
+nowhere  ->  هیچ جایی
+inseparable  ->  جدایی ناپذیر
+either  ->  یا
+competition  ->  رقابت
+treat  ->  درمان شود
+equivalent  ->  معادل
+crime  ->  جرم
+estate  ->  املاک
+crescent  ->  هلال
+status  ->  وضعیت
+praise  ->  ستایش
+palace  ->  قصر
+horrible  ->  ناگوار
+excess  ->  اضافی
+shortcut  ->  میانبر
+indeed  ->  در واقع
+soothing  ->  آرامش بخش
+essence  ->  ذات
+intact  ->  سالم
+marble  ->  سنگ مرمر
+engage  ->  مشغول کردن
+radioactive  ->  رادیواکتیو
+hymn  ->  سرود
+germ  ->  ریشه
+devil  ->  شیطان
+coach  ->  مربی
+spectrum  ->  طیف
+variety  ->  تنوع
+idiom  ->  اصطلاح
+necklace  ->  گردن بند
+coward  ->  ترسو
+pioneer  ->  پیشگام
+bright  ->  روشن
+laboratory  ->  آزمایشگاه
+season  ->  فصل
+locker  ->  قفسه
+strap  ->  بند
+flesh  ->  گوشت
+stream  ->  جریان
+log  ->  ورود به سیستم
+millionaire  ->  میلیونر
+port  ->  بندر
+bowl  ->  کاسه
+liberty  ->  آزادی
+consent  ->  رضایت
+convention  ->  قرارداد
+speculate  ->  حدس و گمان
+task  ->  وظیفه
+groom  ->  داماد
+respiration  ->  تنفس
+knit  ->  بافتن
+lentil  ->  عدس
+recommend  ->  توصیه
+pose  ->  ژست
+terminate  ->  خاتمه دادن
+ax  ->  تبر
+reproduce  ->  تکثیر
+steady  ->  ثابت
+maybe  ->  شاید
+sharp  ->  تیز
+promise  ->  وعده
+fear  ->  ترس
+brass  ->  برنجی
+overwhelm  ->  غرق کردن
+external  ->  خارجی
+humble  ->  فروتن
+appoint  ->  تعیین کنید
+digest  ->  هضم
+regain  ->  به دست آوردن مجدد
+weapon  ->  سلاح
+terrestrial  ->  زمینی
+approximate  ->  تقریبی
+extend  ->  توسعه دادن، گسترش
+inferior  ->  پست تر
+raft  ->  قایق
+attend  ->  مراجعه كردن
+mold  ->  قالب
+ancient  ->  کهن
+diagnose  ->  تشخیص دادن
+perform  ->  انجام دادن
+omen  ->  فال
+confess  ->  اعتراف کردن
+capacity  ->  ظرفیت
+seek  ->  به دنبال
+dawn  ->  سپیده دم
+pillow  ->  بالش
+spread  ->  انتشار دادن
+peak  ->  اوج
+prescription  ->  نسخه
+hostile  ->  خصومت آمیز
+oxygen  ->  اکسیژن
+crawl  ->  خزیدن
+available  ->  در دسترس
+consist  ->  تشکیل شده است از
+volcano  ->  آتشفشان
+bath  ->  حمام
+glad  ->  خوشحالم
+compete  ->  رقابت کنند
+incorporate  ->  گنجاندن
+superstition  ->  خرافات
+noise  ->  سر و صدا
+religious  ->  دینی
+famous  ->  معروف
+cite  ->  نقل قول
+thick  ->  ضخیم
+intimidate  ->  ترساندن
+telescope  ->  تلسکوپ
+vain  ->  بیهوده
+bottom  ->  پایین
+alleviate  ->  تخفیف دادن
+misplace  ->  نابجا
+wire  ->  سیم
+socialize  ->  اجتماعی کردن
+loose  ->  شل
+accurate  ->  دقیق
+license  ->  مجوز
+fellow  ->  همکار
+tornado  ->  گردباد
+nourish  ->  تغذیه کند
+cunning  ->  حیله گری
+odd  ->  فرد
+tissue  ->  بافت
+plead  ->  لابه کردن
+lid  ->  درب
+laundry  ->  خشکشویی
+stair  ->  پله
+automate  ->  خودکار کردن
+compassionate  ->  دلسوز
+stray  ->  منحرف شدن
+recite  ->  از بر خواندن
+stupid  ->  احمق
+adverse  ->  نامطلوب
+handicap  ->  معلول
+stuff  ->  چیز
+overweight  ->  اضافه وزن
+cool  ->  سرد
+repair  ->  تعمیر
+cheat  ->  تقلب
+upbringing  ->  تربیت
+rust  ->  زنگ
+enemy  ->  دشمن
+evolve  ->  تکامل یابد
+failure  ->  شکست
+poem  ->  شعر
+village  ->  دهکده
+spice  ->  ادویه
+raw  ->  خام
+splendid  ->  عالی
+vine  ->  تاک
+anniversary  ->  سالگرد
+reconcile  ->  وفق دادن
+territory  ->  قلمرو
+differ  ->  فرق داشتن
+interact  ->  تعامل داشتن
+district  ->  ناحیه
+flatter  ->  چاپلوس کردن
+lend  ->  قرض دادن
+fraud  ->  تقلب
+endure  ->  تحمل کن
+mandatory  ->  اجباری
+field  ->  رشته
+commodity  ->  کالا
+chatter  ->  پچ پچ کردن
+captain  ->  کاپیتان
+pain  ->  درد
+vigil  ->  بیداری
+recur  ->  عود کند
+startle  ->  وحشت زده شدن
+sympathy  ->  ابراز همدردی
+double  ->  دو برابر
+replicate  ->  تکثیر
+theme  ->  موضوع
+essay  ->  مقاله
+assembly  ->  مونتاژ
+assure  ->  اطمینان دادن
+liable  ->  مسئول
+novelty  ->  تازگی
+infamous  ->  بدنام
+plague  ->  طاعون
+celebrate  ->  جشن گرفتن
+clumsy  ->  دست و پا چلفتی
+professor  ->  استاد
+hardly  ->  به ندرت
+generation  ->  نسل
+assist  ->  کمک کند
+convince  ->  متقاعد کردن
+flush  ->  فلاش
+courtyard  ->  حیاط
+proof  ->  اثبات
+incident  ->  حادثه
+confuse  ->  گیج کردن
+pierce  ->  سوراخ کردن
+pinpoint  ->  مشخص کردن
+member  ->  عضو
+different  ->  ناهمسان
+magnet  ->  آهن ربا
+ego  ->  نفس
+vegetarian  ->  گیاه خواری
+tragedy  ->  تراژدی
+overall  ->  به طور کلی
+stab  ->  چاقو زدن
+fluorescent  ->  فلورسنت
+privacy  ->  حریم خصوصی
+stock  ->  موجودی
+favor  ->  لطف
+bone  ->  استخوان
+abbey  ->  صومعه
+decline  ->  کاهش می یابد
+wavy  ->  موج دار
+chronicle  ->  تاريخچه
+audible  ->  قابل شنیدن
+factory  ->  کارخانه
+paramount  ->  برترین
+affect  ->  تاثیر می گذارد
+pardon  ->  عفو
+admiral  ->  دریاسالار
+federal  ->  فدرال
+ingredient  ->  جزء
+evident  ->  مشهود
+chest  ->  قفسه سینه
+flu  ->  آنفولانزا
+astronomical  ->  نجومی
+disagree  ->  مخالف بودن
+comet  ->  دنباله دار
+possess  ->  در اختیار داشتن
+culinary  ->  آشپزی
+maximize  ->  به حداکثر رساندن
+offer  ->  پیشنهاد
+exquisite  ->  نفیس
+device  ->  دستگاه
+update  ->  به روز رسانی
+steal  ->  کش رفتن
+braille  ->  الفباء نابینایان
+wild  ->  وحشی
+marvel  ->  شگفت زده کردن
+plot  ->  طرح
+aggressive  ->  خشونت آمیز
+abstract  ->  چکیده
+orbit  ->  مدار
+swear  ->  سوگند
+concert  ->  کنسرت
+parade  ->  رژه
+parasite  ->  انگل
+bamboo  ->  بامبو
+pursue  ->  دنبال کردن
+retire  ->  بازنشسته شدن
+satisfaction  ->  رضایت
+cupboard  ->  کابینت
+nuisance  ->  مزاحمت
+barely  ->  به سختی
+privilege  ->  امتیاز
+linger  ->  درنگ
+factual  ->  واقعی
+avoid  ->  اجتناب کردن
+rife  ->  نفاق
+metropolitan  ->  شهر بزرگ
+curve  ->  منحنی
+structure  ->  ساختار
+refrain  ->  خودداری
+economy  ->  اقتصاد
+practitioner  ->  متخصص
+kettle  ->  کتری
+needle  ->  سوزن
+pattern  ->  الگو
+lightly  ->  به آرامی
+lay  ->  غیر روحانی
+frontier  ->  مرز
+muscular  ->  عضلانی
+confront  ->  مواجه شدن
+majesty  ->  عظمت
+mandarin  ->  ماندارین
+fundamental  ->  اساسی
+faith  ->  ایمان
+poster  ->  پوستر
+respond  ->  پاسخ دادن
+idiot  ->  ادم سفیه و احمق
+steel  ->  فولاد
+humanities  ->  علوم انسانی
+discriminate  ->  تبعیض قائل شدن
+basis  ->  اساس
+shaft  ->  شفت
+contagious  ->  مسری
+reed  ->  نی
+suddenly  ->  ناگهان
+prevalent  ->  رایج است
+adequate  ->  کافی است
+avail  ->  فایده دارد
+inflate  ->  باد کردن
+naval  ->  نیروی دریایی
+poison  ->  سم
+distract  ->  حواس پرت کردن
+anchor  ->  لنگر
+mill  ->  کارخانه
+represent  ->  نمایندگی کند
+compassion  ->  رحم و شفقت - دلسوزی
+resolve  ->  برطرف کردن
+library  ->  کتابخانه
+swing  ->  تاب خوردن
+slope  ->  شیب
+chief  ->  رئیس
+scribble  ->  خط خطی کردن
+cultivate  ->  کشت کنند
+classify  ->  طبقه بندی کردن
+fertile  ->  بارور
+reptile  ->  خزنده
+beam  ->  پرتو
+duty  ->  وظیفه
+trash  ->  زباله ها
+deceive  ->  فریب دادن
+outright  ->  کاملا
+misery  ->  بدبختی
+triumph  ->  پیروزی
+artist  ->  هنرمند
+hole  ->  سوراخ
+beyond  ->  فراتر
+tune  ->  اهنگ
+loud  ->  با صدای بلند
+offset  ->  انحراف
+admonish  ->  نصیحت کردن
+warn  ->  هشدار دادن
+susceptible  ->  مستعد
+bandage  ->  بانداژ
+concrete  ->  بتن
+agency  ->  آژانس
+terrible  ->  وحشتناک
+conversation  ->  گفتگو
+nutritious  ->  مغذی
+architecture  ->  معماری
+ache  ->  درد
+wake  ->  از خواب بیدار
+error  ->  خطا
+induce  ->  وادار کردن
+defeat  ->  شکست
+joy  ->  شادی
+riddle  ->  معما
+monitor  ->  نظارت کنید
+cell  ->  سلول
+canal  ->  کانال
+greet  ->  سلام کردن
+consider  ->  در نظر گرفتن
+tender  ->  مناقصه
+nervous  ->  عصبی
+improvise  ->  بداهه
+attic  ->  اتاق زیر شیروانی
+wicked  ->  شریر
+affection  ->  محبت
+addict  ->  معتاد
+aside  ->  گذشته از
+contest  ->  مسابقه
+agree  ->  موافق
+negligible  ->  قابل اغماض
+event  ->  رویداد
+sheriff  ->  کلانتر
+thief  ->  دزد
+artery  ->  شریان
+shell  ->  پوسته
+attain  ->  حداقل
+distance  ->  فاصله
+portable  ->  قابل حمل
+enlarge  ->  بزرگنمایی کنید
+fast  ->  سریع
+enhance  ->  افزایش دهد
+shelter  ->  پناه
+inhabit  ->  ساکن است
+international  ->  بین المللی
+massive  ->  عظیم
+solution  ->  راه حل
+advantage  ->  مزیت - فایده - سود - منفعت
+gloom  ->  تاریکی
+bury  ->  دفن کردن
+remedy  ->  درمان
+revenge  ->  انتقام گرفتن
+welfare  ->  رفاه
+atmosphere  ->  جو
+merry  ->  شاد
+opinion  ->  نظر
+magnify  ->  بزرگ کردن
+silence  ->  سکوت
+struggle  ->  تقلا
+bridge  ->  پل
+justice  ->  عدالت
+superior  ->  برتر
+serve  ->  خدمت
+brief  ->  مختصر
+proportion  ->  تناسب، قسمت
+intervene  ->  دخالت
+match  ->  همخوانی داشتن
+succeed  ->  موفق شدن
+preview  ->  پیش نمایش
+pure  ->  خالص
+tray  ->  سینی
+harvest  ->  محصول
+brag  ->  لاف زدن
+desperate  ->  مستاصل
+realize  ->  پی بردن
+still  ->  هنوز
+molecule  ->  مولکول
+dent  ->  فرورفتگی
+profile  ->  مشخصات
+exist  ->  وجود داشته باشد
+obsess  ->  وسواس
+linguist  ->  زبانشناس
+well  ->  خوب
+rehearse  ->  تمرین کنید
+puff  ->  پف کردن
+pleasant  ->  دلپذیر
+hum  ->  زمزمه
+swarm  ->  ازدحام
+own  ->  خود
+fairy  ->  پری
+crash  ->  تصادف در
+division  ->  تقسیم
+squeeze  ->  چلاندن، فشار دادن
+castle  ->  قلعه
+pathological  ->  آسیب شناسی
+overpopulation  ->  ازدیاد جمعیت
+individual  ->  شخصی
+legislate  ->  قانون گذاری کند
+migraine  ->  میگرن
+metabolic  ->  متابولیک
+breakdown  ->  درهم شکستن
+potential  ->  پتانسیل
+forgive  ->  ببخش
+commonplace  ->  عادی
+absence  ->  غیبت
+sincere  ->  مخلص - بی ریا - صمیمانه
+chore  ->  کارهای عادی و روزمره
+surplus  ->  مازاد
+innovative  ->  خلاقانه
+theory  ->  تئوری
+glacier  ->  یخچال طبیعی
+overcrowded  ->  پر ازدحام
+physiology  ->  فیزیولوژی
+utility  ->  سودمندی
+sail  ->  سفر دریایی
+suit  ->  کت و شلوار
+illustrate  ->  نشان دادن
+pharaoh  ->  فرعون
+peer  ->  همتا
+sparkle  ->  درخشش
+fabulous  ->  شگفت آور
+costume  ->  لباس
+peculiar  ->  عجیب و غریب
+sob  ->  هق هق
+kin  ->  خویشاوندان
+background  ->  زمینه
+shelf  ->  تاقچه
+portray  ->  تصویر کشیدن
+bracelet  ->  دستبند
+comment  ->  اظهار نظر
+hero  ->  قهرمان
+stable  ->  پایدار
+council  ->  شورا
+senior  ->  ارشد
+strike  ->  ضربه
+yield  ->  بازده
+plenty  ->  فراوانی
+fake  ->  جعلی
+soothe  ->  آرام کردن
+bark  ->  پارس سگ
+loom  ->  بافندگی
+passion  ->  شور
+southern  ->  جنوبی
+ceramic  ->  سرامیک
+provision  ->  تدارک
+tragic  ->  غم انگیز
+role  ->  نقش
+attitude  ->  نگرش
+choke  ->  خفه کردن
+paralysis  ->  فلج شدن
+beware  ->  برحذر بودن
+resemble  ->  شبیه
+archer  ->  کماندار
+vice  ->  معاون
+shut  ->  بسته
+caution  ->  احتیاط
+share  ->  اشتراک گذاری
+friendship  ->  دوستی
+pollen  ->  گرده
+temporary  ->  موقت
+opponent  ->  حریف
+shed  ->  دهنه
+affair  ->  امر
+kit  ->  کیت
+shoot  ->  شلیک
+appear  ->  به نظر می رسد
+meteorology  ->  هواشناسی
+flint  ->  سنگ چخماق
+excite  ->  برانگیختن
+telegraph  ->  تلگراف
+moan  ->  ناله
+forecast  ->  پیش بینی
+infer  ->  نتیجه گیری
+premise  ->  فرضیه
+permit  ->  مجوز
+swell  ->  متورم شدن
+intolerable  ->  غير قابل تحمل
+galaxy  ->  کهکشان
+refrigerate  ->  در یخچال قرار دهید
+fume  ->  دود
+intend  ->  قصد داشتن - خواستن
+senses  ->  حواس
+lightning  ->  رعد و برق
+moreover  ->  علاوه بر این
+float  ->  شناور
+lush  ->  سرسبز
+shy  ->  خجالتی
+mighty  ->  توانا
+stir  ->  هم بزنید
+tutor  ->  معلم خصوصی
+microchip  ->  ریزتراشه
+infant  ->  نوزاد
+subsequent  ->  متعاقب
+physical  ->  فیزیکی
+colony  ->  مستعمره
+climate  ->  اقلیم
+garment  ->  لباس
+gamble  ->  قمار
+prescribe  ->  تجویز کند
+idle  ->  بیکار
+infinite  ->  نا محدود
+though  ->  اگر چه
+seed  ->  دانه
+identify  ->  شناسایی
+dish  ->  ظرف
+finance  ->  دارایی، مالیه، سرمایه گذاری
+bullet  ->  گلوله
+ginger  ->  زنجبیل
+appeal  ->  درخواست
+outdated  ->  منسوخ شده
+noble  ->  نجیب
+sin  ->  گناه
+tale  ->  داستان
+glide  ->  سر خوردن
+objective  ->  هدف، واقعگرایانه
+attentive  ->  توجه
+laughter  ->  خنده
+acquisition  ->  تحصیل
+wail  ->  ناله
+cellular  ->  سلولی
+versa  ->  برعکس
+recent  ->  اخیر
+poke  ->  بهم زدن
+stiff  ->  سفت
+enter  ->  وارد
+captive  ->  اسیر
+cruel  ->  ظالمانه
+plumbing  ->  لوله کشی
+boss  ->  رئیس
+underground  ->  زیرزمینی
+herd  ->  گله
+exam  ->  امتحان
+tactic  ->  تاکتیک
+habitual  ->  معمولی
+haunt  ->  خالی از سکنه
+growl  ->  غرغر کردن
+casual  ->  گاه به گاه
+consistency  ->  ثبات
+judicial  ->  قضایی
+slate  ->  سنگ لوح
+create  ->  ایجاد کردن
+emulate  ->  تقلید
+probe  ->  پویشگر
+exclusive  ->  انحصاری
+signify  ->  دلالت کند
+vehement  ->  شدید
+chemistry  ->  علم شیمی
+barber  ->  سلمانی
+veteran  ->  کهنه سرباز
+ally  ->  متحد
+famine  ->  قحطی
+freeway  ->  آزادراه
+pond  ->  حوضچه
+despite  ->  با وجود
+sneeze  ->  عطسه
+multiple  ->  چندگانه
+concentric  ->  متحدالمرکز
+journey  ->  سفر
+enact  ->  وضع
+century  ->  قرن
+tremble  ->  لرزیدن
+pulse  ->  نبض
+lung  ->  ریه
+keen  ->  تیز
+inward  ->  درون
+blow  ->  فوت کردن، دمیدن
+conceal  ->  پنهان کردن، پوشاندن
+mischief  ->  مایه دردسر
+convenient  ->  راحت
+posture  ->  وضعیت بدن
+soy  ->  سویا
+concept  ->  مفهوم
+omission  ->  حذف
+perceive  ->  درک
+frantic  ->  از کوره در رفته
+stage  ->  صحنه
+memory  ->  حافظه
+banquet  ->  ضیافت
+boot  ->  چکمه
+advocacy  ->  دفاع
+slab  ->  اسلب
+rotate  ->  چرخاندن
+diminish  ->  کاهش
+mariner  ->  دریانورد
+boom  ->  رونق
+trick  ->  فوت و فن
+tenant  ->  مستاجر
+grasp  ->  فهم
+injustice  ->  بی عدالتی
+sly  ->  حیله گر
+actual  ->  واقعی
+multitude  ->  انبوه
+widow  ->  بیوه
+aptitude  ->  صلاحیت - استعداد - شایستگی
+overwork  ->  کار زیاد
+amid  ->  در میان
+mayor  ->  شهردار
+virtual  ->  مجازی
+yawn  ->  خمیازه
+fantasy  ->  فانتزی
+account  ->  حساب
+avenue  ->  خیابان
+shepherd  ->  شبان
+altitude  ->  ارتفاع
+respective  ->  قابل احترام
+ivory  ->  عاج
+expire  ->  منقضی شود
+civilization  ->  تمدن
+merchandise  ->  کالا
+bow  ->  تعظیم
+administration  ->  مدیریت
+prestige  ->  اعتبار
+upset  ->  ناراحت
+resign  ->  استعفا دهد
+journal  ->  مجله
+hence  ->  از این رو
+pebble  ->  سنگریزه
+synthesis  ->  سنتز
+bare  ->  برهنه
+upwards  ->  به سمت بالا
+fee  ->  هزینه
+perhaps  ->  شاید
+outstretched  ->  دراز شده
+familiar  ->  آشنا
+employ  ->  استخدام کردن
+furious  ->  خشمگین
+splash  ->  پاشیدن
+summon  ->  احضار
+mail  ->  پست الکترونیکی
+arrive  ->  رسیدن
+counterpart  ->  همتا
+extent  ->  وسعت
+control  ->  کنترل
+preach  ->  موعظه
+ranger  ->  تکاور
+bunch  ->  دسته
+abundant  ->  فراوان
+brave  ->  شجاع
+creature  ->  موجود
+forest  ->  جنگل
+mortgage  ->  رهن
+nasty  ->  زننده
+behalf  ->  از طرف
+ponder  ->  اندیشیدن
+hut  ->  کلبه
+kill  ->  کشتن
+astronaut  ->  فضانورد
+arrange  ->  ترتیب دادن
+bribe  ->  رشوه دادن
+participate  ->  شرکت کردن
+lag  ->  تاخیر
+bait  ->  طعمه
+furniture  ->  مبلمان
+diplomat  ->  دیپلمات
+birthplace  ->  زادگاه
+dusk  ->  غروب
+heal  ->  شفا دادن
+fuel  ->  سوخت
+thorn  ->  خار
+influence  ->  نفوذ
+tail  ->  دم
+columnist  ->  مقالهنویس
+distinct  ->  متمایز
+steam  ->  بخار
+sudden  ->  ناگهانی
+chill  ->  سرد شدن
+subscribe  ->  اشتراک در
+whistle  ->  سوت زدن
+dissatisfied  ->  ناراضی
+referee  ->  داور
+purse  ->  کیف پول
+goods  ->  کالاها
+withdraw  ->  کنار کشیدن
+rely  ->  تکیه
+maintain  ->  حفظ
+latter  ->  دومی
+flight  ->  پرواز
+foster  ->  پرورش دادن، پروردن
+astonished  ->  حیرت زده
+pregnant  ->  حامله
+cozy  ->  دنج
+sort  ->  مرتب سازی
+concentrate  ->  تمرکز
+swift  ->  سریع
+dim  ->  کم نور
+virtue  ->  تقوا
+merit  ->  شایستگی
+coalition  ->  ائتلاف
+guard  ->  نگهبان
+embassy  ->  سفارت
+step  ->  گام
+hereditary  ->  ارثی
+typewritten  ->  تایپ شده
+coincide  ->  مصادف شدن
+confine  ->  محدود کردن
+image  ->  تصویر
+minimal  ->  حداقل
+routine  ->  روال
+lively  ->  زنده
+workout  ->  تمرین
+hint  ->  اشاره
+dominant  ->  غالب
+among  ->  در میان
+celsius  ->  درجه سانتیگراد
+orphan  ->  یتیم
+entire  ->  کل
+sink  ->  فرو رفتن
+heir  ->  وارث
+disclose  ->  فاش کردن
+artifact  ->  غیرواقعی، ساختگی
+eager  ->  مشتاق
+adjoining  ->  مجاور
+shadow  ->  سایه
+penalty  ->  پنالتی
+happen  ->  گاز گرفتن
+abolish  ->  لغو کند
+zoology  ->  جانور شناسی
+adhere  ->  پایبند
+ferry  ->  کشتی
+colloquial  ->  محاوره ای
+circumstance  ->  چگونگی، امر، تفصیل، شرایط محیط، پیش امد، شرح
+fatigue  ->  خستگی
+argue  ->  جر و بحث
+cholesterol  ->  کلسترول
+distress  ->  پریشانی
+save  ->  صرفه جویی
+demonstrate  ->  نشان دادن
+prosecute  ->  تحت تعقیب قرار دادن
+competence  ->  صلاحیت
+outweigh  ->  سنگین تر بودن از
+hemisphere  ->  نیمکره
+flaw  ->  نقص
+courage  ->  شجاعت
+aircraft  ->  هواپیما
+saturate  ->  اشباع کردن
+observe  ->  رعایت کنید
+statute  ->  اساسنامه
+enclose  ->  محصور کردن
+discover  ->  کشف کردن
+sanctuary  ->  جایگاه مقدس
+meantime  ->  در ضمن
+gratitude  ->  حق شناسی
+scholar  ->  محقق
+already  ->  قبلا، پیش از این
+botany  ->  گیاه شناسی
+palate  ->  کام
+broadcast  ->  پخش
+harsh  ->  خشن
+neither  ->  هیچ کدام
+melt  ->  ذوب شدن
+millennium  ->  هزاره
+hill  ->  تپه
+overjoyed  ->  بسیار خوشحال
+enable  ->  فعال کردن
+conquest  ->  فتح
+above  ->  در بالا
+numb  ->  بی‌حس
+currency  ->  واحد پول
+segregate  ->  جدا کردن
+legitimate  ->  مشروع
+stitch  ->  کوک
+proficient  ->  مسلط
+nutrition  ->  تغذیه
+feat  ->  شاهکار
+ruins  ->  ویرانه
+focus  ->  تمرکز
+method  ->  روش
+civil  ->  مدنی
+deaf  ->  کر
+prototype  ->  نمونه اولیه
+persist  ->  اصرار ورزیدن
+bias  ->  جانبداری
+devote  ->  اختصاص
+alongside  ->  در کنار
+extinct  ->  منقرض شده
+magnificent  ->  باشکوه
+mix  ->  مخلوط کردن
+offense  ->  توهین
+char  ->  کاراکتر
+fold  ->  تا کردن
+rupture  ->  پارگی
+characteristic  ->  مشخصه
+island  ->  جزیره
+ceiling  ->  سقف
+rectify  ->  اصلاح کردن
+stain  ->  لکه دار کردن
+aboard  ->  در کشتی
+strength  ->  استحکام - قدرت
+charcoal  ->  زغال چوبی
+barrel  ->  بشکه
+rip  ->  پاره کردن
+revenue  ->  درآمد
+grueling  ->  طاقت فرسا
+dogged  ->  سرکش
+blink  ->  چشمک زدن
+royal  ->  سلطنتی
+significance  ->  اهمیت
+script  ->  اسکریپت
+suspect  ->  مشکوک
+factor  ->  عامل
+nuclear  ->  هسته ای
+analogous  ->  مشابه
+handbook  ->  دفترچه راهنما
+plantation  ->  مزرعه
+exit  ->  خروج
+abide  ->  پایبند بودن
+surgeon  ->  جراح
+coast  ->  ساحل
+tease  ->  اذیت کردن
+intestines  ->  روده ها
+delete  ->  حذف
+urge  ->  اصرار
+highlands  ->  ارتفاعات
+tame  ->  رام کردن
+pledge  ->  سوگند - تعهد
+dock  ->  بارانداز
+cardinal  ->  اصلی
+borrow  ->  امانت گرفتن
+refuse  ->  رد کردن
+underneath  ->  در زیر
+charity  ->  خیریه
+consequence  ->  نتیجه
+manipulate  ->  دستکاری کردن
+feast  ->  جشن
+shiver  ->  لرزیدن
+bit  ->  بیت
+involve  ->  درگیر کردن
+situate  ->  قرار دادن
+romantic  ->  رومانتیک
+corpse  ->  جسد
+nausea  ->  حالت تهوع
+grease  ->  گریس
+retreat  ->  عقب نشینی
+uproar  ->  آشوب
+lure  ->  طعمه
+space  ->  فضا
+mass  ->  جرم
+judge  ->  قضاوت کنید
+carefully  ->  با دقت
+solemn  ->  رسمی
+limit  ->  حد
+whereabouts  ->  محل تقریبی
+convenience  ->  راحتی
+cope  ->  کنار آمدن
+caretaker  ->  سرایدار
+register  ->  ثبت نام
+example  ->  مثال
+sane  ->  عاقل
+mount  ->  کوه
+roost  ->  خروس
+stricken  ->  زده
+sustain  ->  حفظ کنند
+excavate  ->  حفاری کردن
+peace  ->  صلح
+grove  ->  بیشه
+console  ->  کنسول
+spontaneous  ->  خود جوش
+rather  ->  نسبتا
+manor  ->  عمارت
+final  ->  نهایی
+clone  ->  شبیه
+sorrow  ->  غم و اندوه
+navigate  ->  حرکت کنید
+humiliate  ->  تحقیر کردن
+arthritis  ->  آرتروز
+synthetic  ->  مصنوعی
+trance  ->  ترنس
+managerial  ->  مدیریتی
+debt  ->  بدهی
+barren  ->  عقیم
+hurricane  ->  طوفان
+leak  ->  نشت
+onset  ->  شروع
+nucleus  ->  هسته
+fancy  ->  تفننی
+stance  ->  حالت
+envious  ->  حسود
+grab  ->  گرفتن
+grateful  ->  سپاسگزار
+client  ->  مشتری
+fluctuate  ->  نوسان می کند
+sustenance  ->  رزق و روزی
+intrigue  ->  دسیسه
+revolve  ->  بچرخد
+display  ->  نمایش دادن
+enterprise  ->  شرکت، پروژه
+construct  ->  ساختن
+parallel  ->  موازی
+thin  ->  لاغر
+tap  ->  ضربه زدن
+justly  ->  عادلانه
+paradox  ->  پارادوکس
+proceed  ->  ادامه دهید
+compare  ->  مقایسه کنید
+measure  ->  اندازه گرفتن
+reveal  ->  آشکار کردن
+irrigate  ->  آبیاری
+stale  ->  کهنه
+award  ->  جایزه
+cot  ->  تخت
+sociology  ->  جامعه شناسی
+personnel  ->  پرسنل
+disobedient  ->  نافرمان
+prospect  ->  چشم انداز
+wing  ->  بال
+ocean  ->  اقیانوس
+effect  ->  اثر
+pungent  ->  تند
+betray  ->  خیانت کردن
+moist  ->  مرطوب
+duration  ->  مدت زمان
+philanthropy  ->  بشردوستی
+inspire  ->  الهام بخشیدن
+pea  ->  نخود
+dismiss  ->  رد
+cancel  ->  لغو
+imagine  ->  تصور کنید
+depict  ->  تصور کن
+feeble  ->  ضعیف
+switch  ->  تعویض
+saliva  ->  بزاق
+ability  ->  توانایی
+utterly  ->  کاملا
+rash  ->  کهیر
+astonish  ->  شگفت زده کردن
+species  ->  گونه ها
+product  ->  تولید - محصول
+timber  ->  چوب
+trait  ->  صفت
+hire  ->  استخدام
+grief  ->  غم و اندوه
+frame  ->  قاب
+gradual  ->  تدریجی
+taste  ->  طعم
+mock  ->  مسخره کردن
+legacy  ->  میراث
+manage  ->  مدیریت کنید
+limb  ->  اندام
+credentials  ->  اعتبارنامه
+explicit  ->  صریح
+importance  ->  اهمیت
+average  ->  میانگین
+signature  ->  امضا
+substance  ->  ماده
+frigid  ->  منجمد
+cavity  ->  حفره
+equal  ->  برابر
+public  ->  عمومی
+prominent  ->  برجسته
+comprise  ->  شامل می شود
+sensitive  ->  حساس
+bite  ->  گاز گرفتن
+knight  ->  شوالیه
+solidarity  ->  همبستگی
+injure  ->  زخمی کردن
+alien  ->  بیگانه
+modest  ->  فروتن
+scent  ->  رایحه
+breath  ->  نفس
+pet  ->  حیوان خانگی
+supper  ->  عصرانه
+scope  ->  محدوده
+morale  ->  روحیه
+restrain  ->  مهار کردن
+certain  ->  مسلم - قطعی
+weary  ->  خسته
+sphere  ->  کره
+rid  ->  خلاص شدن از شر
+indirect  ->  غیر مستقیم
+excellent  ->  عالی
+gossip  ->  شایعات
+locate  ->  پیدا کردن
+p  ->  پ
+continue  ->  ادامه هید
+belly  ->  شکم
+daytime  ->  روز
+skeletal  ->  اسکلتی
+garage  ->  گاراژ
+therefore  ->  از این رو
+prophet  ->  یک پیامبر
+transition  ->  انتقال
+charitable  ->  خیریه
+comparative  ->  مقایسه ای
+zip  ->  زیپ
+dictate  ->  دیکته کردن
+county  ->  شهرستان
+presence  ->  حضور
+smell  ->  بو
+supervise  ->  نظارت
+comprehensive  ->  همه جانبه
+marry  ->  ازدواج کن
+voyage  ->  سفر دریایی
+vein  ->  رگ
+dubious  ->  مشکوک
+illusion  ->  توهم
+beneath  ->  در زیر
+remainder  ->  باقی مانده
+prize  ->  جایزه
+eventual  ->  نهایی
+considerable  ->  قابل توجه
+success  ->  موفقیت
+subsist  ->  زندگی کردن
+accessory  ->  لوازم جانبی
+oblige  ->  وادار کردن
+thump  ->  ضربه زدن
+hermit  ->  گوشه نشین
+fate  ->  سرنوشت
+generate  ->  تولید می کنند
+beat  ->  ضرب و شتم
+architect  ->  معمار
+flavor  ->  طعم و مزه
+against  ->  در برابر
+defer  ->  به تعویق انداختن
+breathe  ->  نفس کشیدن
+coral  ->  مرجان
+ore  ->  سنگ معدن
+cape  ->  شنل
+pretend  ->  تظاهر کن
+rhyme  ->  قافیه
+thunder  ->  رعد و برق
+pleased  ->  راضی
+leave  ->  ترک کردن
+expertise  ->  تجربه و تخصص
+grain  ->  غلات
+range  ->  دامنه
+dig  ->  حفر کردن
+select  ->  انتخاب کنید
+inside  ->  داخل
+drill  ->  مته
+culprit  ->  مقصر
+dedicate  ->  وقف کن
+speech  ->  سخن، گفتار
+prehistoric  ->  ماقبل تاریخ
+lone  ->  تنها
+dominate  ->  تسلط داشتن
+metal  ->  فلز
+depart  ->  رفتن
+moral  ->  اخلاقی
+urban  ->  شهری
+remind  ->  به یاد آوردن
+trouble  ->  مشکل
+tumble  ->  غلت زدن
+personality  ->  شخصیت
+scramble  ->  تقلا
+opportunity  ->  فرصت
+dive  ->  شیرجه رفتن
+hectare  ->  هکتار
+worth  ->  ارزش
+tolerance  ->  تحمل
+spare  ->  یدکی
+clerk  ->  منشی
+rob  ->  غارت
+gorgeous  ->  جذاب
+outraged  ->  عصبانی
+landscape  ->  چشم انداز
+congratulate  ->  تبریک گفتن
+experience  ->  تجربه
+interpret  ->  تفسیر
+base  ->  پایه
+optimism  ->  خوش بینی
+depend  ->  بستگی دارد
+commerce  ->  تجارت
+supplement  ->  مکمل
+strict  ->  سخت گیرانه
+funnel  ->  قیف
+advocate  ->  مدافع
+investigate  ->  تحقیق کردن
+quite  ->  کاملا
+authentic  ->  معتبر
+phantom  ->  فانتوم
+blood  ->  خون
+mortal  ->  فانی
+pop  ->  ترکیدن
+vegetable  ->  سبزی
+frequency  ->  فرکانس
+flammable  ->  قابل اشتعال
+cottage  ->  کلبه
+describe  ->  توصیف کردن
+apply  ->  درخواست دادن
+attract  ->  جذب کنند
+complement  ->  متمم
+trip  ->  سفر
+nap  ->  چرت زدن
+pole  ->  قطب
+stroke  ->  سکته
+stool  ->  مدفوع
+constitution  ->  قانون اساسي
+impact  ->  تأثیر
+withhold  ->  خودداری کنید
+strain  ->  نژاد
+deceptive  ->  فریبنده
+expel  ->  اخراج کردن
+shape  ->  شکل
+mammal  ->  پستاندار
+gender  ->  جنسیت
+delight  ->  لذت بسیار
+exceed  ->  تجاوز
+suburb  ->  حومه شهر
+ashore  ->  در ساحل
+fracture  ->  شکست، شکستگی
+identical  ->  همسان
+submit  ->  ارسال
+petroleum  ->  نفت
+challenge  ->  چالش
+cramp  ->  گرفتگی
+sever  ->  جداسازی
+solitude  ->  تنهایی
+inclusion  ->  شمول
+thus  ->  بدین ترتیب
+wipe  ->  پاک کن
+tyranny  ->  ستم
+perspire  ->  عرق کردن
+merchant  ->  تاجر
+collapse  ->  سقوط - فروپاشی
+bean  ->  لوبیا
+insomnia  ->  بیخوابی
+threat  ->  تهدید
+meteorological  ->  هواشناسی
+impede  ->  مانع
+monastery  ->  صومعه
+cosmopolitan  ->  شهری
+divorce  ->  طلاق
+refresh  ->  تازه کردن
+boast  ->  به رخ کشیدن
+progress  ->  پیش رفتن
+sensible  ->  معقول
+output  ->  خروجی
+outrage  ->  خشم
+secretary  ->  دبیر، منشی
+unify  ->  متحد کردن
+contrary  ->  مخالف
+newcomer  ->  تازه وارد
+lord  ->  خداوند
+intake  ->  مصرف
+mentor  ->  مرشد
+exact  ->  دقیق
+fountain  ->  آبنما
+naughty  ->  شیطون
+staircase  ->  راه پله
+nod  ->  سر تکان دادن
+frequently  ->  مکررا
+exterior  ->  خارجی
+explore  ->  کاوش
+monk  ->  راهب
+universe  ->  کائنات
+beach  ->  ساحل دریا
+seasoning  ->  چاشنی
+occupation  ->  اشتغال
+heighten  ->  بالا بردن
+propose  ->  پیشنهاد کند
+narrow  ->  محدود، تنگ
+horizon  ->  افق
+surf  ->  موج سواری
+gift  ->  هدیه
+rouge  ->  رژ گونه
+skeleton  ->  اسکلت
+hesitant  ->  مردد، دودل
+database  ->  پایگاه داده
+cathedral  ->  کلیسای جامع
+submerge  ->  غوطه ور شدن
+associate  ->  وابسته
+bilingual  ->  دو زبانه
+mental  ->  ذهنی
+uniform  ->  لباس فرم
+eligible  ->  واجد شرایط
+none  ->  هیچ یک
+texture  ->  بافت
+cheerful  ->  بشاش
+position  ->  موقعیت
+tempt  ->  دچار وسوسه کردن
+amaze  ->  شگفت زده کردن
+acquaint  ->  آشنا کردن
+suck  ->  مکیدن
+strive  ->  تلاش کردن
+hike  ->  پیاده روی
+differentiate  ->  متمایز کردن
+sage  ->  حکیم
+proverb  ->  ضرب المثل
+miserable  ->  بدبخت
+assumption  ->  فرض
+marathon  ->  ماراتن
+reception  ->  پذیرایی
+hospitality  ->  مهمان نوازی
+foe  ->  دشمن
+fluent  ->  روان، سلیس
+community  ->  انجمن
+clay  ->  خاک رس
+period  ->  عادت زنانه
+den  ->  را
+rumor  ->  شایعه
+internal  ->  درونی؛ داخلی
+postpone  ->  عقب انداختن
+relief  ->  تسکین
+ordeal  ->  مصیبت
+bully  ->  گردن کلفت
+chemist  ->  شیمیدان
+elastic  ->  کشسان
+mash  ->  له کردن
+bizarre  ->  عجیب و غریب
+tilt  ->  کج کردن
+extraordinary  ->  خارق العاده
+pup  ->  توله سگ
+dominance  ->  تسلط
+gaze  ->  خیره شدن
+cotton  ->  پنبه
+annual  ->  سالانه
+flour  ->  ارد
+aristocracy  ->  اشرافیت
+parachute  ->  چتر نجات
+ash  ->  خاکستر
+dynasty  ->  سلسله
+enthusiasm  ->  اشتیاق
+assert  ->  ادعا کردن
+medieval  ->  قرون وسطایی
+stove  ->  اجاق گاز
+arrest  ->  دستگیری
+fuss  ->  سر و صدا
+wade  ->  وید
+trail  ->  دنباله
+relieve  ->  از بین بردن
+cloth  ->  پارچه
+cube  ->  مکعب
+stake  ->  سهام
+prolong  ->  طولانی کردن
+drawer  ->  کشو
+brute  ->  بی رحم
+intuitive  ->  شهودی
+cater  ->  تهیه غذا
+liberal  ->  لیبرال
+necessity  ->  ضرورت
+scar  ->  جای زخم
+designate  ->  تعیین کنید
+humid  ->  مرطوب
+spit  ->  تف انداختن
+raisin  ->  کشمش
+resume  ->  از سرگیری
+celestial  ->  آسمانی
+sibling  ->  خواهر و برادر
+severe  ->  شدید
+racial  ->  نژادی
+drown  ->  غرق شدن
+process  ->  روند
+trigger  ->  ماشه
+cause  ->  علت
+malnutrition  ->  سوء تغذیه
+supernatural  ->  فراطبیعی
+smash  ->  درهم کوبیدن
+perception  ->  ادراک
+current  ->  جاری
+drip  ->  چکه کردن
+vanish  ->  ناپدید شدن
+emotion  ->  هیجانی
+debate  ->  مناظره
+whereby  ->  به موجب آن
+friendly  ->  دوستانه
+resist  ->  مقاومت کردن
+thereby  ->  در نتیجه
+calculate  ->  محاسبه
+sparse  ->  پراکنده
+senate  ->  سنا
+perish  ->  از بین رفتن
+proclaim  ->  اعلام
+r  ->  r
+state  ->  حالت
+reserve  ->  ذخیره
+soundly  ->  با صدای بلند
+magazine  ->  مجله
+rock  ->  سنگ
+coexist  ->  همزیستی
+article  ->  مقاله
+emperor  ->  امپراتور
+accumulate  ->  انباشتن
+occupy  ->  را اشغال کند
+pour  ->  ریختن
+aspect  ->  جنبه
+arrogant  ->  مغرور
+various  ->  مختلف
+behavior  ->  رفتار - اخلاق
+accuse  ->  متهم کردن
+sufficient  ->  کافی
+humane  ->  انسانی
+participant  ->  شرکت کننده
+faint  ->  از هوش رفتن
+ranch  ->  در مرتع پرورش احشام
+haste  ->  عجله
+practical  ->  کاربردی
+cross  ->  صلیب
+intermediate  ->  حد واسط
+gripe  ->  گریه کردن
+recipient  ->  گیرنده
+complaint  ->  شکایت
+academy  ->  آکادمی
+dignity  ->  کرامت
+aerial  ->  هوایی
+jealousy  ->  حسادت
+dissatisfy  ->  ناراضی کردن
+grade  ->  مقطع تحصیلی
+path  ->  مسیر
+skip  ->  جست و خیز کردن
+upcoming  ->  آینده
+separate  ->  جداگانه، مجزا
+difference  ->  تفاوت
+fiery  ->  آتشین
+distant  ->  غیر صمیمی
+renown  ->  شهرت
+slave  ->  برده
+lining  ->  آستر
+review  ->  مرور
+regret  ->  پشیمان شدن. پشیمانی
+capture  ->  گرفتن
+interval  ->  فاصله
+spade  ->  بیل
+liquid  ->  مایع
+organism  ->  ارگانیسم
+rugged  ->  ناهموار
+earn  ->  بدست آوردن
+along  ->  در امتداد
+section  ->  بخش
+suspicion  ->  سوء ظن
+lawn  ->  چمن
+mess  ->  بهم ریختگی
+stripe  ->  راه راه
+graffiti  ->  گرافیتی
+sew  ->  دوختن
+lovely  ->  دوست داشتني
+leaf  ->  برگ
+hidden  ->  پنهان شده است
+mood  ->  حالت
+aggregate  ->  تجمیع
+ancestry  ->  اصل و نسب
+arbitrary  ->  دلخواه
+imperial  ->  امپراتوری
+proximity  ->  نزدیکی
+rig  ->  دکل
+civic  ->  مدنی
+sweep  ->  جارو کردن
+view  ->  چشم انداز
+victor  ->  پیروز
+sore  ->  دردناک
+hazard  ->  خطر
+pine  ->  کاج
+shade  ->  سایه
+belong  ->  تعلق داشتن
+insight  ->  بینش، بصیرت، درون بینی
+fragile  ->  شکننده
+whether  ->  چه
+yard  ->  حیاط
+meat  ->  گوشت
+tide  ->  جزر و مد
+concerto  ->  کنسرتو
+provide  ->  فراهم کند
+weep  ->  اشک ریختن
+dye  ->  رنگ
+dumb  ->  بی عقل
+patriot  ->  میهن پرستان
+damage  ->  خسارت
+tropics  ->  مناطق گرمسیری
+improve  ->  بهتر کردن
+aware  ->  آگاه
+hang  ->  آویزان شدن
+ministry  ->  وزارت
+electronic  ->  الکترونیکی
+clarify  ->  روشن کردن
+document  ->  سند
+pave  ->  سنگفرش کردن
+benefactor  ->  خیر
+war  ->  جنگ
+bride  ->  عروس
+implicate  ->  دخیل کردن
+institute  ->  موسسه
+deed  ->  سند - سند قانونی
+venom  ->  زهر
+quit  ->  ترک کردن
+valentine  ->  ولنتاین
+berry  ->  توت
+basic  ->  پایه ای
+mature  ->  بالغ
+crucial  ->  حیاتی
+arch  ->  قوس
+armed  ->  مسلح
+tumult  ->  غوغا
+instruct  ->  دستور دادن
+supply  ->  عرضه
+anticipate  ->  پیش بینی کنید
+refine  ->  پالودن
+purchase  ->  خرید
+magic  ->  شعبده بازي
+outback  ->  دورافتاده
+tradition  ->  سنت
+sterile  ->  استریل
+bid  ->  پیشنهاد
+accelerate  ->  سرعت بخشیدن
+return  ->  برگشت
+collision  ->  برخورد
+enigma  ->  معما
+dead  ->  مرده
+belief  ->  باور
+earthquake  ->  زمين لرزه
+clue  ->  سرنخ
+mad  ->  دیوانه
+diameter  ->  قطر
+elbow  ->  آرنج
+wrap  ->  بسته بندی کردن
+compel  ->  مجبور کردن
+aspire  ->  آرزو می کنم
+dependency  ->  وابستگی
+tract  ->  تراکت
+cardboard  ->  مقوا
+rebel  ->  شورشی
+scatter  ->  پراکنده کردن
+relax  ->  آروم باش
+amber  ->  کهربا
+approve  ->  تایید
+bud  ->  جوانه
+leisure  ->  اوقات فراغت
+dialect  ->  گویش
+pride  ->  غرور
+angry  ->  خشمگین
+declare  ->  اعلام
+pray  ->  نماز خواندن
+gravel  ->  شن
+glance  ->  نگاه
+false  ->  نادرست
+correspond  ->  مطابقت
+diary  ->  دفتر خاطرات
+emergency  ->  اضطراری
+phenomenon  ->  پدیده
+seldom  ->  به ندرت
+chronology  ->  گاهشماری
+insert  ->  درج کنید
+breed  ->  نژاد
+ancestor  ->  جد
+arduous  ->  سخت
+outmoded  ->  منسوخ شده
+volatile  ->  فرار
+cosmetics  ->  لوازم آرایشی
+relativity  ->  نسبیت
+circus  ->  سیرک
+interchange  ->  تبادل
+religion  ->  دین
+poet  ->  شاعر
+definitive  ->  قطعی
+teller  ->  گوینده
+competent  ->  صالح
+flee  ->  فرار کن
+homogeneous  ->  همگن
+extension  ->  افزونه
+scholarship  ->  بورس تحصیلی
+chop  ->  تکه کردن
+resource  ->  منبع
+prove  ->  ثابت كردن
+fro  ->  از طرف
+euphemism  ->  تعبیر
+appropriate  ->  مناسب
+almighty  ->  خداوند متعال
+northern  ->  شمالی
+wander  ->  پرسه زدن
+invade  ->  حمله کردن
+counsel  ->  مشاوره
+jury  ->  هیئت داوران
+outburst  ->  انفجار
+crook  ->  خم کردن
+forefinger  ->  انگشت اشاره
+bleed  ->  خونریزی
+situated  ->  واقع شده است
+warp  ->  پیچ و تاب
+passenger  ->  مسافر
+fist  ->  مشت
+tin  ->  قلع
+mode  ->  حالت
+cloud  ->  ابر
+satisfy  ->  راضی کردن
+knowledge  ->  دانش
+lodge  ->  کلبه
+charm  ->  افسون
+stubborn  ->  یک دنده
+insult  ->  توهین
+hoop  ->  حلقه
+appall  ->  وحشتناک
+anemia  ->  کم خونی
+spatial  ->  فضایی
+fuse  ->  فیوز
+punctual  ->  وقت شناس
+spectator  ->  تماشاگر
+proud  ->  مغرور
+justify  ->  توجیه
+announce  ->  اعلام
+scan  ->  اسکن کنید
+autobiography  ->  زندگی نامه
+persuasion  ->  متقاعد کردن
+submarine  ->  زیردریایی
+disapprove  ->  رد کردن
+is  ->  است
+minimize  ->  به حداقل رساندن
+lunar  ->  قمری
+equator  ->  استوا
+affirm  ->  تایید کردن
+descent  ->  نزول
+escort  ->  اسکورت
+vulgar  ->  مبتذل
+march  ->  مارس
+obtain  ->  به دست آوردن
+adventure  ->  ماجرا
+psychic  ->  روانی
+efficient  ->  کارآمد
+exploit  ->  بهره برداری
+glacial  ->  یخبندان
+mound  ->  تپه
+unsettle  ->  بی قرار
+saturated  ->  اشباع شده
+patent  ->  ثبت اختراع
+literature  ->  ادبیات
+distrust  ->  بی اعتمادی
+land  ->  زمین
+paradise  ->  بهشت
+prey  ->  طعمه
+destroy  ->  از بین رفتن
+mob  ->  اوباش
+elaborate  ->  دارای جزئیات - بسیط
+pirate  ->  دزد دریایی
+treachery  ->  خیانت
+rainforest  ->  جنگل بارانی
+ruin  ->  خراب کردن
+satisfactory  ->  رضایتبخش
+valid  ->  معتبر
+craft  ->  مهارت
+carpenter  ->  نجار
+voluntary  ->  داوطلبانه
+yell  ->  فریاد زدن
+psychiatric  ->  روانپزشکی
+misfortune  ->  بد شانسی
+pale  ->  رنگ پریده
+recognition  ->  به رسمیت شناختن
+essential  ->  ضروری است
+plaster  ->  گچ
+cyberspace  ->  فضای مجازی
+suppose  ->  فرض کنید
+resort  ->  رفت و آمد مکرر
+price  ->  قیمت
+bend  ->  خم شدن
+deterioration  ->  زوال
+awesome  ->  عالی
+object  ->  هدف - شی
+credible  ->  معتبر
+sift  ->  الک کردن
+boundary  ->  مرز
+dairy  ->  لبنیات
+handy  ->  دستی
+destiny  ->  سرنوشت
+mist  ->  غبار
+assume  ->  فرض
+character  ->  شخصیت
+inherit  ->  شما ارث می برید
+force  ->  زور
+abnormal  ->  غیرطبیعی
+nevertheless  ->  با این اوصاف
+vision  ->  چشم انداز
+aggression  ->  پرخاشگری
+earnest  ->  جدی
+shortage  ->  کمبود
+invest  ->  سرمایه گذاری
+amnesty  ->  عفو
+dough  ->  خمیر
+fascinate  ->  مجذوب کردن
+shore  ->  ساحل
+stormy  ->  طوفانی
+likely  ->  احتمال دارد
+project  ->  پروژه
+granite  ->  گرانیت
+jewel  ->  جواهر
+dozen  ->  دوجین
+applicant  ->  درخواست کننده
+stimulate  ->  تحریک
+permission  ->  اجازه
+conspiracy  ->  توطئه
+blaze  ->  آتش
+verify  ->  تایید کنید
+thread  ->  نخ
+ever  ->  همیشه
+decade  ->  دهه
+succession  ->  جانشینی
+reflex  ->  رفلکس
+blend  ->  مخلوط کردن
+authoritative  ->  معتبر
+stimulus  ->  محرک
+vie  ->  رقابت
+enlist  ->  نام نویسی کردن
+vampire  ->  خون آشام
+aroma  ->  عطر
+overlook  ->  نادیده گرفتن
+patience  ->  صبر
+reluctant  ->  آنها تردید می کنند
+muscle  ->  ماهیچه
+etiquette  ->  آداب معاشرت
+analyze  ->  تجزیه و تحلیل
+lecture  ->  سخنرانی
+sled  ->  سورتمه
+dreary  ->  دلگیر
+astounded  ->  حیرت زده
+funeral  ->  مراسم خاکسپاری
+assemble  ->  جمع آوری کنید
+disrespect  ->  بی احترامی
+custom  ->  سفارشی
+creep  ->  خزیدن
+fierce  ->  شدید
+hop  ->  هاپ
+embarrass  ->  خجالت کشیدن
+scrutiny  ->  بررسی موشکافانه
+unrest  ->  نا آرام
+equip  ->  تجهیز کردن
+mineral  ->  معدنی
+alarm  ->  زنگ خطر. هشدار
+organize  ->  سازمان دادن
+adorn  ->  آراستن
+net  ->  خالص
+blizzard  ->  کولاک
+opt  ->  انتخاب کردن
+notify  ->  مطلع ساختن
+trustworthy  ->  قابل اعتماد
+eclipse  ->  کسوف
+laugh  ->  خنده
+utensil  ->  وسایل آشپزی
+cache  ->  حافظه پنهان
+bulletin  ->  بولتن
+guardian  ->  نگهبان
+descend  ->  فرود آمدن
+pedestrian  ->  عابر پیاده
+allocate  ->  اختصاص دهد
+vase  ->  گلدان
+mankind  ->  بشر
+impression  ->  احساس؛ عقیده؛ گمان
+discourage  ->  دلسرد کردن
+operation  ->  عمل
+infect  ->  آلوده کردن
+polish  ->  لهستانی
+harbor  ->  بندرگاه
+traverse  ->  پس و پیش رفتن
+initial  ->  اولیه
+dilemma  ->  دوراهی
+upgrade  ->  ارتقا دهید
+desire  ->  میل
+novel  ->  رمان
+wary  ->  محتاط
+corporate  ->  شرکت های بزرگ، دارای شخصیت حقوقی
+excitement  ->  هیجان
+fasten  ->  بستن
+experiment  ->  آزمایش
+fend  ->  دفع کردن
+condition  ->  وضعیت
+derive  ->  استخراج
+entrance  ->  ورود
+scrap  ->  باطله
+commence  ->  آغاز شود
+social  ->  اجتماعی
+obvious  ->  واضح
+curtain  ->  پرده
+resent  ->  کینه توز
+disabled  ->  معلول
+relay  ->  رله
+gasp  ->  نفس کشیدن
+regular  ->  منظم
+tram  ->  تراموا
+hollow  ->  توخالی
+formal  ->  رسمی
+bitter  ->  تلخ
+departure  ->  عزیمت، خروج
+starve  ->  گرسنگی
+encourage  ->  تشويق كردن
+divine  ->  الهی
+punish  ->  تنبیه کردن
+conserve  ->  کنسرو
+exercise  ->  ورزش
+avalanche  ->  بهمن
+reinforce  ->  تقویت کردن
+exhibit  ->  نمایشگاه
+burden  ->  بار
+mm  ->  میلی متر
+profit  ->  سود
+secure  ->  امن است
+circumference  ->  دور
+villain  ->  شرور
+sesame  ->  کنجد
+fond  ->  دوست داشتنی
+overload  ->  اضافه بار
+evacuate  ->  تخلیه
+premature  ->  زودرس
+trust  ->  اعتماد
+symmetry  ->  تقارن
+euphoria  ->  رضایت
+prejudice  ->  تعصب
+relate  ->  مربوط بودن
+tangle  ->  گره زدن
+impress  ->  تاثیر گذاشتن
+moment  ->  لحظه
+guideline  ->  دستورالعمل
+arithmetic  ->  حسابی
+labor  ->  کار یدی
+journalist  ->  روزنامه نگار
+stun  ->  بیهوش کردن
+lyric  ->  متن آهنگ
+obstruct  ->  مانع
+congested  ->  شلوغ
+roll  ->  رول
+divide  ->  تقسیم کنید
+however  ->  با این حال
+cost  ->  هزینه
+revise  ->  تجدید نظر کنید
+knot  ->  گره
+contract  ->  قرارداد
+reef  ->  تپه دریایی
+hood  ->  کاپوت ماشین
+bake  ->  پختن
+facilitate  ->  تسهیل کردن
+bond  ->  رابطه، رشته
+superintendent  ->  سرپرست
+chart  ->  چارت سازمانی
+fictitious  ->  ساختگی
+shrink  ->  کوچک شدن
+unfortunate  ->  مایه تاسف
+tournament  ->  مسابقات
+former  ->  سابق
+itch  ->  خارش
+alternative  ->  جایگزین
+sentiment  ->  احساسات
+expose  ->  در معرض گذاشتن
+winding  ->  سیم پیچی
+polite  ->  با ادب
+household  ->  خانواده
+waste  ->  هدر
+respect  ->  توجه
+weave  ->  بافت
+promptly  ->  بی درنگ
+vessel  ->  کشتی
+offend  ->  توهین کردن
+precious  ->  گرانبها
+mimic  ->  تقلید کردن
+chew  ->  جویدن
+collaborate  ->  همکاری
+outlook  ->  چشم انداز
+tear  ->  اشک
+heaven  ->  بهشت
+conform  ->  مطابقت داشته باشد
+manner  ->  شیوه
+remain  ->  ماندن
+ratio  ->  نسبت
+dew  ->  شبنم
+vinegar  ->  سرکه
+vivid  ->  واضح
+cyclone  ->  طوفان
+arrow  ->  فلش
+formula  ->  فرمول
+dip  ->  شیب
+loaf  ->  قرص نان
+request  ->  درخواست
+toss  ->  پرتاب کردن
+innocent  ->  بی گناه
+instrument  ->  ابزار
+courtesy  ->  حسن نیت
+index  ->  فهرست مطالب
+deliver  ->  ارائه
+microbe  ->  میکروب
+controversy  ->  جنجال - جدال سرسختانه
+staple  ->  اصلی
+bless  ->  برکت دادن
+sequence  ->  توالی
+agriculture  ->  کشاورزی
+obscure  ->  مبهم
+sinister  ->  شیطانی
+binoculars  ->  دوربین دوچشمی
+unity  ->  وحدت
+grid  ->  توری
+frank  ->  صریح
+censor  ->  سانسور
+blame  ->  سرزنش کردن
+advent  ->  ظهور
+forbid  ->  منع
+suffer  ->  رنج بردن
+rest  ->  باقی مانده
+journalism  ->  روزنامه نگاری
+ground  ->  زمین
+lieutenant  ->  ستوان
+criteria  ->  شاخص
+adjoin  ->  مجاورت کردن
+locale  ->  محل
+imprint  ->  حک
+rent  ->  اجاره
+meal  ->  وعده غذایی
+discord  ->  اختلاف
+deter  ->  بازداشتن
+aisle  ->  راهرو
+earl  ->  ارل
+obstacle  ->  مانع
+amuse  ->  سرگرم کردن
+gross  ->  ناخالص
+landmark  ->  نقطه عطف
+shout  ->  فریاد
+giant  ->  غول
+found  ->  یافت
+tuition  ->  شهریه
+pest  ->  آفت
+aristocrat  ->  اشراف زاده
+deck  ->  عرشه
+intelligence  ->  هوش
+talent  ->  استعداد
+invoke  ->  استناد کردن
+truth  ->  حقیقت
+occasion  ->  مناسبت
+far  ->  دور
+lie  ->  دروغ
+protect  ->  محافظت
+prohibit  ->  ممنوع کرده است
+contend  ->  مبارزه کردن
+definite  ->  قطعی
+wizard  ->  جادوگر
+toward  ->  به سمت
+dung  ->  سرگین
+feature  ->  ویژگی
+constellation  ->  صورت فلکی
+boring  ->  حوصله سر بر
+crater  ->  دهانه
+farewell  ->  بدرود
+ransom  ->  فدیه
+fad  ->  مد زودگذر
+vary  ->  متفاوت
+mixture  ->  مخلوط
+fantastic  ->  خارق العاده
+block  ->  مسدود کردن
+fleet  ->  ناوگان
+pastime  ->  سرگرمی
+proper  ->  مناسب
+schedule  ->  برنامه
+deny  ->  انکار
+ignorant  ->  نادان
+colleague  ->  همکار
+preserve  ->  حفظ
+treasure  ->  گنج
+assign  ->  اختصاص دهد
+ultimate  ->  نهایی
+persuade  ->  متقاعد کردن
+courier  ->  پیک
+last  ->  آخر
+animate  ->  جان دادن
+tribe  ->  قبیله
+intellect  ->  عقل
+fresh  ->  تازه
+ethnic  ->  قومی
+innovation  ->  نوآوری
+reproductive  ->  تولید مثلی
+claim  ->  مطالبه
+tolerate  ->  تحمل كردن
+crickets  ->  جیرجیرک
+confidence  ->  اعتماد به نفس
+diagram  ->  نمودار
+overseas  ->  خارج از کشور
+message  ->  پیام
+violate  ->  نقض
+ridge  ->  خط الراس
+delay  ->  تاخیر انداختن
+notice  ->  اطلاع
+restore  ->  بازگرداندن
+astrology  ->  طالع بینی
+din  ->  از جانب
+astronomy  ->  ستاره شناسی
+debris  ->  زباله
+rival  ->  رقیب
+punishment  ->  مجازات
+capitalism  ->  نظام سرمایه داری
+transplant  ->  پیوند
+drag  ->  بکشید
+spectacle  ->  تماشایی
+veterinarian  ->  دامپزشک
+implement  ->  پیاده سازی
+medicine  ->  پزشکی
+distort  ->  تحریف کردن
+centigrade  ->  درجه سانتیگراد
+officer  ->  افسر
+sarcastic  ->  طعنه آمیز
+administrative  ->  اداری
+federation  ->  فدراسیون
+expand  ->  بسط دادن
+store  ->  فروشگاه
+stranded  ->  سرگردان
+slap  ->  سیلی زدن
+mutual  ->  متقابل
+acrobat  ->  آکروبات
+strategy  ->  استراتژی
+monolingual  ->  تک زبانه
+immoral  ->  غیر اخلاقی
+due  ->  ناشی از
+abroad  ->  خارج از کشور
+poignant  ->  تکان دهنده
+firsthand  ->  دست اول
+solitary  ->  منفرد، مجد، تنها، منزوی، انفرادی
+victim  ->  قربانی
+therapy  ->  درمان
+emphasize  ->  اهمیت دادن
+conscience  ->  وجدان
+altar  ->  محراب
+dictionary  ->  فرهنگ لغت
+bounce  ->  جهش
+philosophy  ->  فلسفه
+incline  ->  متمایل شدن
+paste  ->  چسباندن
+vow  ->  نذر
+resourceful  ->  مدبر
+ridiculous  ->  مسخره - مضحک
+nick  ->  بریدگی کوچک
+specify  ->  مشخص نمودن
+copper  ->  فلز مس
+reply  ->  پاسخ
+comfort  ->  راحتی
+flame  ->  شعله
+autumn  ->  فصل پاييز
+constrain  ->  محدود کردن
+clap  ->  کف زدن
+dwarf  ->  آدم کوتوله
+beak  ->  منقار
+exclaim  ->  بانگ زدن
+utter  ->  مطلقا
+trivial  ->  ناچیز
+compose  ->  ساختن
+ail  ->  بیماری
+unless  ->  مگر اینکه
+outcome  ->  نتیجه
+spark  ->  جرقه
+publish  ->  انتشار
+scene  ->  صحنه
+precise  ->  دقیق
+automobile  ->  خودرو
+defy  ->  سرپیچی کردن
+anthropology  ->  مردم شناسی
+analogy  ->  مقایسه
+narrate  ->  روایت کند
+phase  ->  فاز
+ladder  ->  نردبان
+recipe  ->  دستور آشپزی
+sole  ->  تنها
+slam  ->  ضربه زدن
+bomb  ->  بمب
+signal  ->  علامت
+marsh  ->  مرداب
+shake  ->  تکان دادن
+pursuit  ->  دستیابی
+wm  ->  wm
+admission  ->  پذیرش
+middle  ->  وسط
+integrate  ->  ادغام کردن
+throne  ->  تخت پادشاهی
+constant  ->  مقدار ثابت
+capital  ->  سرمایه، پایتخت
+artificial  ->  ساختگی
+quality  ->  کیفیت
+monarch  ->  پادشاه
+adept  ->  ماهر
+original  ->  اصلی
+globe  ->  کره زمین
+extreme  ->  مفرط
+frost  ->  سرمازدگی
+cattle  ->  گاو
+underestimate  ->  دست کم گرفتن
+contribute  ->  مشارکت
+genius  ->  نابغه
+impatient  ->  بی صبر
+carve  ->  تراشیدن
+sigh  ->  آه
+bush  ->  بوته
+pat  ->  ضربه زدن
+hinder  ->  مانع شود
+surround  ->  احاطه
+meanwhile  ->  در همین حال
+photosynthesis  ->  فتوسنتز
+rich  ->  ثروتمند
+delta  ->  دلتا
+function  ->  عملکرد
+majestic  ->  با شکوه
+brick  ->  آجر
+reluctance  ->  بی میلی
+brilliant  ->  درخشان
+strife  ->  نزاع
+subtle  ->  نامحسوس
+publication  ->  انتشار
+fade  ->  محو شدن
+counteract  ->  مقابله کند
+rub  ->  مالیدن
+raise  ->  بالا بردن
+seizure  ->  تصرف
+butler  ->  خدمتکار
+entitle  ->  حق داشتن
+empathy  ->  یکدلی
+faucet  ->  شير آب
+revive  ->  احیای
+connect  ->  متصل شود
+spend  ->  خرج کردن
+reputable  ->  معتبر
+moisture  ->  مرطوب
+secondhand  ->  دست دوم
+boost  ->  تقویت
+estimate  ->  تخمین زدن
+single  ->  تنها
+puzzle  ->  پازل
+affluent  ->  فراوان
+emphasis  ->  تاکید
+enroll  ->  ثبت نام کنید
+wilderness  ->  بیابان
+rag  ->  کهنه
+later  ->  بعد
+shovel  ->  بیل
+choice  ->  انتخاب
+behind  ->  پشت
+martial  ->  رزمی
+fragment  ->  قطعه
+chin  ->  چانه
+pinch  ->  نیشگون گرفتن
+zone  ->  منطقه
+bucket  ->  سطل
+sticky  ->  چسبنده
+sense  ->  احساس، مفهوم
+realm  ->  قلمرو
+independence  ->  استقلال
+navy  ->  نیروی دریایی
+ought  ->  باید
+accompany  ->  همراهی کردن
+parcel  ->  بسته
+pollute  ->  آلوده کردن
+coffin  ->  تابوت
+streak  ->  خط
+occur  ->  روی دادن
+patch  ->  پچ
+mast  ->  دکل
+beast  ->  جانور
+dare  ->  جرات
+humanitarian  ->  بشردوستانه
+invalid  ->  بی اعتبار
+harass  ->  آزار دادن
+thrill  ->  هیجان
+skeptic  ->  شکاک
+snore  ->  خروپف کردن
+condense  ->  متراکم کردن
+temperate  ->  معتدل
+simultaneous  ->  همزمان
+imply  ->  دلالت
+apology  ->  معذرت خواهی
+zoom  ->  بزرگنمایی
+principle  ->  اصل
+gulf  ->  خلیج
+alive  ->  زنده
+fortune  ->  ثروت
+aid  ->  کمک
+manuscript  ->  نسخه خطی
+tour  ->  تور
+inclusive  ->  شامل
+interrupt  ->  قطع کردن
+arid  ->  خشک
+imitate  ->  تقلید کنید
+urgent  ->  فوری
+jolly  ->  شادی آور
+acid  ->  اسید
+radiate  ->  تابش می کند
+furnish  ->  مبله کردن
+celebrity  ->  فرد مشهور
+exotic  ->  خارجی
+calm  ->  آرام
+subject  ->  موضوع
+periphery  ->  حاشیه
+forward  ->  رو به جلو
+autograph  ->  دستخط
+closet  ->  کمد لباس
+silent  ->  بی صدا
+chaos  ->  آشوب
+phenomenal  ->  فوق العاده
+disgusting  ->  چندش آور
+crush  ->  خرد کردن
+biotechnology  ->  بیوتکنولوژی
+motive  ->  انگیزه
+notorious  ->  بدنام
+bill  ->  صورت حساب
+bother  ->  زحمت
+erosion  ->  فرسایش
+mystery  ->  رمز و راز
+cure  ->  درمان
+insist  ->  اصرار کنید
+settle  ->  حل کن
+ragged  ->  ژنده پوش
+allow  ->  اجازه
+altogether  ->  در مجموع
+fable  ->  افسانه
+mundane  ->  دنیوی
+sergeant  ->  گروهبان
+duke  ->  دوک
+advise  ->  توصیه
+gate  ->  دروازه
+fog  ->  مه
+absorb  ->  جذب
+distribute  ->  توزیع کردن
+horror  ->  وحشت
+property  ->  ویژگی
+hide  ->  پنهان شدن
+drastic  ->  شدید
+solar  ->  خورشیدی
+vibrate  ->  ارتعاش
+research  ->  پژوهش
+opposite  ->  مقابل
+premium  ->  حق بیمه
+ecology  ->  بوم شناسی
+quantum  ->  کوانتومی
+cereal  ->  غلات
+thorough  ->  کامل
+real  ->  واقعی
+blonde  ->  طلایی
+harness  ->  مهار
+candidate  ->  نامزد
+unite  ->  متحد کردن
+portrait  ->  پرتره
+terrified  ->  وحشت زده
+reject  ->  رد کردن
+lump  ->  توده
+fortunate  ->  خوش شانس
+medication  ->  دارو
+fraction  ->  کسر
+reflect  ->  منعکس کنند
+certificate  ->  گواهی
+pessimistic  ->  بدبین
+billion  ->  میلیارد
+balance  ->  تعادل
+set  ->  تنظیم
+amend  ->  اصلاح
+courteous  ->  مودب
+else  ->  دیگر
+guide  ->  راهنما
+inventive  ->  مبتکر
+tyrant  ->  ظالم
+genetic  ->  ژنتیکی
+immune  ->  مصون
+fiction  ->  داستان
+trace  ->  پی گیری
+material  ->  مواد
+explosion  ->  انفجار
+normal  ->  طبیعی
+paddle  ->  دست و پا زدن
+misconception  ->  تصور غلط
+inquire  ->  جویا شدن
+admire  ->  تحسین
+wage  ->  حق الزحمه
+trial  ->  آزمایش
+jewelry  ->  جواهر سازی
+driveway  ->  راهرو
+soul  ->  روح
+pause  ->  مکث
+breakfast  ->  صبحانه
+refund  ->  بازپرداخت
+fault  ->  عیب
+arise  ->  بوجود امدن
+dose  ->  دوز
+entertain  ->  سرگرم کردن
+slight  ->  اندک
+fireworks  ->  آتش بازی
+confident  ->  مطمئن
+gravity  ->  جاذبه زمین
+fame  ->  شهرت
+wonder  ->  تعجب
+accent  ->  لهجه
+chaotic  ->  بی نظم
+stark  ->  شدید
+psychiatry  ->  روانپزشکی
+expect  ->  انتظار
+dynamics  ->  پویایی شناسی
+flood  ->  سیل
+graduate  ->  فارغ التحصیل
+neighbor  ->  همسایه
+attempt  ->  تلاش
+termite  ->  موریانه
+numerous  ->  متعدد
+province  ->  استان
+myth  ->  اسطوره
+handle  ->  رسیدگی
+strip  ->  نوار
+textile  ->  منسوجات
+hone  ->  با سنگ تیز کردن
+hypothesis  ->  فرضیه
+drop  ->  رها کردن
+circulate  ->  گردش کند
+disrupt  ->  مختل کردن
+troops  ->  نیروهای
+suspend  ->  تعلیق کند
+halt  ->  مکث
+invasion  ->  تهاجم
+buoy  ->  شناور
+peck  ->  نوک زدن
+industrious  ->  سخت کوش
+tough  ->  سخت است
+skinny  ->  لاغر
+spine  ->  ستون فقرات
+brew  ->  دم کردن
+permanence  ->  ماندگاری
+snatch  ->  قاپیدن
+mobile  ->  سیار
+attire  ->  لباس
+prophecy  ->  رسالت
+linguistic  ->  وابسته به زبانشناسی
+rim  ->  لبه
+attribute  ->  صفت
+legal  ->  مجاز
+deputy  ->  قائم مقام
+level  ->  مرحله
+dissolve  ->  حل کردن
+procession  ->  راهپیمایی
+grind  ->  آسیاب کردن
+roast  ->  کباب
+grand  ->  بزرگ
+spur  ->  تحریک
+honor  ->  افتخار و احترام
+stack  ->  پشته
+sideways  ->  به پهلو
+destination  ->  مقصد
+plate  ->  بشقاب
+hail  ->  تگرگ
+proponent  ->  طرفدار
+trap  ->  تله
+compact  ->  فشرده - جمع و جور
+thrive  ->  رشد کردن
+immediate  ->  فوری
+elegant  ->  ظریف
+howl  ->  زوزه کشیدن
+maze  ->  مارپیچ
+fanciful  ->  خیالی
+crisp  ->  ترد
+dine  ->  شام خوردن
+infrastructure  ->  زیر ساخت
+fore  ->  جلو
+replace  ->  جایگزین کردن
+beneficial  ->  سودمند
+irritable  ->  تحریک پذیر
+foundation  ->  پایه
+evoke  ->  برانگیختن
+trendy  ->  روندها
+advance  ->  پیشرفت
+particular  ->  خاص
+obsolete  ->  منسوخ شده
+sector  ->  بخش
+casualty  ->  سانحه، کشته
+radical  ->  افراطی
+necessary  ->  لازم است
+vital  ->  حیاتی
+branch  ->  شاخه
+issue  ->  موضوع
+h  ->  ساعت
+interfere  ->  مداخله کردن
+effort  ->  تلاش
+grip  ->  گرفتن
+discharge  ->  تخلیه
+riot  ->  شورش
+hallmark  ->  انگ
+poultry  ->  طیور
+brook  ->  نهر
+discipline  ->  انضباط
+endeavor  ->  تلاش
+reside  ->  اقامت داشتن
+reach  ->  رسیدن
+soak  ->  خیس خوردن
+priest  ->  کشیش
+envy  ->  حسادت
+facial  ->  صورت
+renaissance  ->  رنسانس
+transfer  ->  منتقل کردن
+edge  ->  حاشیه، غیرمتمرکز
+inevitable  ->  اجتناب ناپذیر
+shutter  ->  کرکره
+intellectual  ->  پر فکر
+utilize  ->  استفاده کنند
+pit  ->  گودال
+indigenous  ->  بومی
+bulk  ->  فله
+offence  ->  توهین
+dizzy  ->  سرگیجه
+ray  ->  اشعه
+principal  ->  اصلی
+jagged  ->  ناهموار
+motion  ->  حرکت - جنبش
+gracious  ->  بخشنده
+inland  ->  داخلی
+biography  ->  زندگینامه
+primitive  ->  اولیه
+tramp  ->  با صدا راه رفتن
+testify  ->  گواهی دادن
+prone  ->  دمر
+vehicle  ->  وسیله نقلیه
+overnight  ->  یک شبه
+report  ->  گزارش
+nationality  ->  ملیت
+slot  ->  اسلات
+benevolent  ->  خیراندیش
+load  ->  بار
+finally  ->  سرانجام
+envision  ->  تجسم
+bachelor  ->  عزب
+excel  ->  برتری داشتن
+retail  ->  خرده فروشی
+innate  ->  ذاتی
+brainstorm  ->  ایده پردازی
+overdose  ->  مصرف بیش از حد
+crop  ->  محصول
+gymnasium  ->  ورزشگاه
+career  ->  حرفه
+formation  ->  تشکیل
+bay  ->  خلیج
+inherent  ->  ذاتی
+neat  ->  مرتب
+integrity  ->  تمامیت
+reign  ->  سلطنت کنند
+collide  ->  برخورد
+abandon  ->  رها کردن
+previous  ->  قبلی
+technology  ->  فن آوری
+hybrid  ->  ترکیبی
+perfume  ->  عطر
+super  ->  فوق العاده
+roof  ->  سقف
+outnumber  ->  از تعداد
+personalize  ->  شخصی کردن
+steer  ->  هدایت کردن
+regard  ->  توجه
+prevail  ->  غالب شدن پیروز شدن چیره شدن
+carriage  ->  کالسکه
+elder  ->  بزرگتر
+tone  ->  لحن
+respirator  ->  دستگاه تنفس
+cage  ->  قفس
+import  ->  وارد كردن
+command  ->  فرمان
+weigh  ->  وزن کردن
+chance  ->  شانس. فرصت
+wrinkle  ->  چین و چروک
+fragrant  ->  معطر
+fiber  ->  فیبر
+sound  ->  صدا
+metabolism  ->  متابولیسم
+wealth  ->  ثروت
+rational  ->  گویا
+sum  ->  مجموع
+moderate  ->  در حد متوسط
+needy  ->  نیازمند
+pesticide  ->  آفت کش
+errand  ->  کارهای محوله
+master  ->  استاد
+dessert  ->  دسر
+norm  ->  هنجار
+scarce  ->  کمیاب
+latitude  ->  عرض جغرافیایی
+quest  ->  جستجو
+route  ->  مسیر
+predator  ->  شکارچی
+ideal  ->  ایده آل
+anymore  ->  دیگر
+slippery  ->  لغزنده
+chamber  ->  محفظه - اتاق
+bold  ->  پررنگ
+major  ->  عمده
+stretch  ->  کش آمدن
+drought  ->  خشکسالی
+lease  ->  اجاره
+sneak  ->  یواشکی
+equilibrium  ->  تعادل
+pouch  ->  کیسه
+flap  ->  فلپ
+aquarium  ->  آکواریوم
+law  ->  قانون
+tense  ->  زمان فعل
+scream  ->  فریاد زدن
+patient  ->  صبور
+sociable  ->  دوستانه
+solve  ->  حل
+fit  ->  مناسب
+firm  ->  محکم
+fund  ->  سرمایه
+stern  ->  سختگیر
+headquarters  ->  مرکز فرماندهی
+clever  ->  باهوش
+equation  ->  معادله
+sensory  ->  حسی
+encounter  ->  رویارویی
+rank  ->  رتبه
+dump  ->  زباله
+blank  ->  جای خالی
+spoil  ->  از بین بردن
+cluster  ->  خوشه
+vague  ->  مبهم
+safe  ->  بی خطر
+dust  ->  گرد و خاک
+cease  ->  دست کشیدن
+produce  ->  تولید کردن
+intense  ->  شدید، قوی
+messenger  ->  پیام رسان
+perspective  ->  چشم انداز
+publicity  ->  تبلیغات
+dishonest  ->  متقلب
+exhaust  ->  اگزوز
+rapid  ->  سریع
+precede  ->  مقدم بودن
+pity  ->  حیف
+decisive  ->  تعیین کننده
+drain  ->  زه کشی
+legislature  ->  قانونگذار
+benefit  ->  سود
+heredity  ->  وراثت
+curl  ->  حلقه
+evaluate  ->  ارزیابی کنید
+charter  ->  منشور
+marine  ->  دریایی
+quantity  ->  تعداد
+saucer  ->  نعلبکی
+apprentice  ->  شاگرد کارآموز
+rack  ->  دندانه دار کردن
+detail  ->  جزئیات
+monetary  ->  پولی
+awkward  ->  بی دست و پا - به شکلی نامناسب
+straw  ->  پوشال
+distinguish  ->  تمیز دادن
+roam  ->  پرسه زدن
+grace  ->  رحمت
+dispose  ->  در معرض قرار دادن
+supreme  ->  عالی
+rush  ->  هجوم بردن
+policy  ->  خط مشی
+course  ->  دوره
+transportation  ->  حمل و نقل
+simulate  ->  شبیه سازی کنید
+tackle  ->  برخورد با
+scratch  ->  خراش
+antibiotic  ->  آنتی بیوتیک
+chemical  ->  شیمیایی
+conclude  ->  نتیجه گرفتن
+center  ->  مرکز
+inhale  ->  استنشاق
+criminal  ->  جنایی
+decrease  ->  نزول کردن
+transmit  ->  انتقال. رساندن
+feather  ->  پر
+pronounce  ->  تلفظ کنید
+storm  ->  طوفان
+sword  ->  شمشیر
+innocence  ->  بی گناهی
+congress  ->  کنگره
+presume  ->  فرض
+plea  ->  درخواست
+planet  ->  سیاره
+fair  ->  نمایشگاه
+brain  ->  مغز
+antique  ->  عتیقه
+majority  ->  اکثریت
+detergent  ->  مواد شوینده
+portion  ->  بخش
+attach  ->  ضمیمه کردن
+sweat  ->  عرق
+electromagnetic  ->  الکترومغناطیسی
+flag  ->  پرچم
+risk  ->  خطر
+authority  ->  قدرت
+ensue  ->  به دنبال داشته باشد
+appetizing  ->  اشتها آور
+coastline  ->  خط ساحلی
+lawyer  ->  وکیل
+magical  ->  جادویی
+sow  ->  بکار
+primate  ->  پستاندار
+afraid  ->  می ترسد
+equate  ->  برابر کردن
+ritual  ->  مراسم
+hunt  ->  شکار کردن
+loan  ->  وام
+rate  ->  نرخ
+option  ->  گزینه
+flock  ->  گله
+crude  ->  خام
+tedious  ->  خسته کننده
+invert  ->  معکوس کردن
+archeological  ->  باستان شناسی
+absolute  ->  مطلق
+nonetheless  ->  با این وجود
+ivy  ->  پیچک
+incentive  ->  مشوق
+spirit  ->  روح
+speck  ->  لکه. خال
+apologetic  ->  عذرخواهی
+m  ->  متر
+ecosystem  ->  زیست بوم
+shift  ->  تغییر مکان
+dull  ->  کدر
+cash  ->  پول نقد
+beforehand  ->  از قبل
+peel  ->  پوست کندن
+plain  ->  جلگه
+curse  ->  لعنت
+deficiency  ->  کمبود
+inspect  ->  بازرسی
+blossom  ->  شکوفه - گل
+crumble  ->  فرو ریختن
+correct  ->  درست
+arctic  ->  قطب شمال
+hi  ->  سلام
+absurd  ->  چرند
+mansion  ->  عمارت
+compass  ->  قطب نما
+site  ->  سایت
+military  ->  نظامی
+tenacious  ->  سر سخت
+cliff  ->  صخره
+disorder  ->  اختلال
+adhesive  ->  چسب
+sprinkle  ->  پاشیدن
+applaud  ->  کف زدن
+profound  ->  عمیق
+dearth  ->  کمبود
+cemetery  ->  قبرستان
+flexible  ->  قابل انعطاف
+contradict  ->  تناقض دارند
+initiate  ->  آغازکردن
+pound  ->  پوند
+restrict  ->  محدود کردن
+stereotype  ->  کلیشه
+likewise  ->  به همین ترتیب
+hydrogen  ->  هیدروژن
+forage  ->  علوفه
+orangutan  ->  اورانگوتان
+ample  ->  کافی
+amount  ->  میزان
+concern  ->  نگرانی
+thesis  ->  پایان نامه
+follow  ->  دنبال کردن
+conscious  ->  هوشیار، آگاه
+repetitive  ->  تکراری
+intermittent  ->  متناوب
+updated  ->  به روز شد
+immigrant  ->  مهاجر
+protein  ->  پروتئین
+greenhouse  ->  گلخانه
+alike  ->  یکسان
+temple  ->  معبد
+grant  ->  اعطا کردن
+overcome  ->  غلبه بر
+elude  ->  فرار کردن
+reverse  ->  معکوس
+steep  ->  شیب تند
+viable  ->  قابل دوام
+spouse  ->  همسر
+blind  ->  کور
+ditch  ->  گودال
+partiality  ->  جانبداری
+attorney  ->  وکیل
+marshal  ->  مارشال
+oppress  ->  ظلم کردن
+extinguish  ->  خاموش کردن
+diligent  ->  کوشا
+harmonize  ->  هماهنگ کردن
+fort  ->  دژ
+rubble  ->  قلوه سنگ
+deal  ->  معامله
+deposit  ->  سپرده
+gazette  ->  روزنامه
+mud  ->  گل و لای
+loyal  ->  وفادار
+blast  ->  انفجار
+incredible  ->  باور نکردنی
+filth  ->  کثیفی
+rare  ->  نادر
+recover  ->  بهبود می یابند
+reputation  ->  شهرت، آبرو
+citizen  ->  شهروند
+stagger  ->  تلو تلو خوردن
+athlete  ->  ورزشکار
+explode  ->  منفجر شدن
+pharmacy  ->  داروخانه
+substitute  ->  جایگزین
+row  ->  ردیف
+lack  ->  عدم
+terrain  ->  زمین
+creek  ->  نهر
+habitat  ->  زیستگاه
+express  ->  بیان
+recognize  ->  تشخیص
+soil  ->  خاک
+loss  ->  ضرر - زیان
+strange  ->  عجیب
+modify  ->  تغییر
+comprehend  ->  درک کردن
+kidnap  ->  ادم دزدی کردن
+outfit  ->  لباس
+anxious  ->  مشتاق
+arena  ->  عرصه
+collect  ->  جمع آوری کنید
+reunion  ->  تجدید دیدار
+shield  ->  سپر
+symptom  ->  علامت
+physician  ->  پزشک
+cautious  ->  محتاط
+probable  ->  محتمل
+administer  ->  اداره کند
+festive  ->  جشن
+ceremony  ->  مراسم
+execute  ->  اجرا کردن
+youth  ->  جوانان
+hospitable  ->  مهمان نواز
+coarse  ->  درشت
+framework  ->  چارچوب
+slim  ->  باریک
+disaster  ->  فاجعه
+print  ->  چاپ
+chapter  ->  فصل
+huge  ->  بزرگ
+length  ->  طول
+housekeeping  ->  خانه داری
+impersonal  ->  غیر شخصی
+complain  ->  شكايت كردن
+hurry  ->  عجله کن
+rage  ->  خشم
+scribe  ->  کاتب
+broom  ->  جارو
+sheet  ->  ورق
+shortly  ->  به زودی
+tiny  ->  کوچک
+ban  ->  ممنوع کردن
+include  ->  عبارتند از
+pudding  ->  پودینگ
+shatter  ->  خرد کردن
+reduce  ->  کاستن
+consecutive  ->  متوالی
+complex  ->  مجتمع
+folk  ->  مردم
+sip  ->  جرعه جرعه
+awful  ->  خیلی بد و ناخوشایند
+ornament  ->  زینت
+luggage  ->  بار مسافر
+ease  ->  سهولت
+grave  ->  قبر
+rite  ->  مناسک
+afflicted  ->  مصیبت زده
+worsen  ->  بدتر شدن
+permanent  ->  دائمی
+breadth  ->  وسعت
+scrape  ->  خراش دادن
+dispute  ->  اختلاف نظر
+bruise  ->  کبودی
+somewhat  ->  تاحدی
+contemplate  ->  اندیشیدن
+vulnerable  ->  آسیب پذیر
+revolution  ->  انقلاب
+ethics  ->  اخلاق
+slice  ->  تکه
+ornate  ->  آراسته
+afford  ->  استطاعت داشتن
+profession  ->  حرفه
+manifest  ->  آشکار
+crack  ->  ترک
+gratify  ->  راضی کردن
+whereas  ->  در حالیکه
+conquer  ->  تسخیر
+meteor  ->  شهاب سنگ
+edit  ->  ویرایش کنید
+require  ->  نیاز
+conceive  ->  حامله شدن
+refute  ->  رد کردن
+monster  ->  هیولا
+embed  ->  جاسازی کنید
+scare  ->  ترساندن
+gather  ->  جمع آوری
+direct  ->  مستقیم
+erect  ->  ایستاده
+standard  ->  استاندارد
+commission  ->  کمیسیون
+drift  ->  رانش
+bet  ->  شرط
+wound  ->  زخم
+release  ->  رهایی
+aesthetic  ->  زیبایی شناختی
+highlight  ->  برجسته
+alter  ->  تغییر دهید
+fahrenheit  ->  فارنهایت
+search  ->  جستجو کردن
+bump  ->  دست انداز
+grumble  ->  غر زدن
+era  ->  عصر
+rail  ->  ریل
+depress  ->  افسرده
+cartoon  ->  کارتون
+cove  ->  خور
+rural  ->  روستایی
+hook  ->  قلاب
+pharmaceutical  ->  دارویی
+archeology  ->  باستان شناسی
+defect  ->  کاستی
+kindly  ->  محبت آمیز
+ride  ->  سوار شدن
+witch  ->  جادوگر
+commit  ->  مرتکب شدن
+escape  ->  در رفتن
+biology  ->  زیست شناسی
+passive  ->  منفعل
+skull  ->  جمجمه
+wet  ->  مرطوب
+tube  ->  لوله
+lot  ->  مقدار زیادی
+positive  ->  مثبت
+within  ->  در داخل
+smallpox  ->  ابله
+aborigine  ->  بومی
+instead  ->  بجای
+sting  ->  نیش
+legend  ->  افسانه
+applause  ->  تشویق و تمجید
+instinct  ->  غریزه
+achieve  ->  رسیدن
+facility  ->  امکانات
+wise  ->  عاقل
+duplicate  ->  تکراری
+stroll  ->  قدم زدن
+gentleman  ->  جنتلمن
+ripe  ->  رسیده
+propulsion  ->  نیروی محرکه
+response  ->  واکنش
+independent  ->  مستقل
+mushroom  ->  قارچ
+sway  ->  تاب خوردن
+carbohydrate  ->  کربوهیدرات
+evil  ->  بد
+expert  ->  کارشناس
+lower  ->  پایین تر
+deprive  ->  محروم کردن
+spear  ->  نیزه
+customer  ->  مشتری
+deliberate  ->  حساب شده
+fatal  ->  کشنده
+tariff  ->  تعرفه
+gesture  ->  ژست
+masculine  ->  مردانه
+global  ->  جهانی است
+twin  ->  دوقلو
+anger  ->  خشم
+nectar  ->  شهد
+communal  ->  اشتراکی
+serious  ->  جدی
+somehow  ->  به نحوی
+corrupt  ->  فاسد
+armor  ->  زره پوش
+emerge  ->  ظهور
+tight  ->  تنگ
+tickle  ->  قلقلک دادن
+hay  ->  یونجه
+ordinary  ->  معمولی
+caterpillar  ->  کرم ابریشم
+garbage  ->  زباله
+hull  ->  بدنە ضد آب شناور
+thermometer  ->  دماسنج
+rear  ->  عقب
+awhile  ->  مدتی
+hurt  ->  صدمه
+primary  ->  اولیه
+acknowledge  ->  اذعان
+penalize  ->  جریمه کردن
+layer  ->  لایه
+shock  ->  شوکه شدن
+psychotic  ->  روان پریش
+aim  ->  هدف
+since  ->  از آنجا که
+wooded  ->  جنگلی
+lava  ->  گدازه
+prince  ->  شاهزاده
+weed  ->  علف هرز
+minister  ->  وزیر
+horizontal  ->  افقی
+cherish  ->  گرامی داشتن
+breeze  ->  نسیم
+diverge  ->  واگرا شدن
+string  ->  رشته
+clan  ->  قبیله
+stall  ->  غرفه
+prairie  ->  دشت
+hunger  ->  گرسنگی
+monument  ->  بنای تاریخی
+u  ->  تو
+silly  ->  احمقانه
+civilian  ->  غیر نظامی
+jealous  ->  حسود
+vibrant  ->  پر جنب و جوش
+confidential  ->  محرمانه
+author  ->  نویسنده
+frustrate  ->  ناامید کردن
+swim  ->  شنا کردن
+spectacular  ->  دیدنی و جذاب - تماشایی
+bald  ->  بدون مو
+context  ->  متن نوشته
+atom  ->  اتم
+passage  ->  گذر
+cargo  ->  محموله
+stumble  ->  تلو تلو خوردن
+secluded  ->  منزوی
+quarrel  ->  نزاع
+multicultural  ->  چند فرهنگی
+oblivious  ->  بی توجه
+scale  ->  مقیاس
+oppose  ->  مخالفت کنند
+neglect  ->  بی توجهی
+moss  ->  خزه
+geography  ->  جغرافیا
+typhoon  ->  طوفان
+witness  ->  شاهد
+access  ->  دسترسی داشته باشید
+lane  ->  مسیر
+fence  ->  حصار
+administrator  ->  مدیر
+culture  ->  فرهنگ
+overcast  ->  ابری
+genome  ->  ژنوم
+disadvantage  ->  عیب
+refuge  ->  پناه
+seclude  ->  منزوی کردن
+memorable  ->  بیاد ماندنی
+description  ->  شرح
+professional  ->  حرفه ای
+origin  ->  اصل و نسب
+dilapidated  ->  فرسوده
+guilty  ->  گناهکار
+instance  ->  نمونه، مثال
+temper  ->  خلق و خوی
+army  ->  ارتش
+spiral  ->  مارپیچ
+luxury  ->  لوکس
+bloom  ->  شکوفه
+apparent  ->  آشکار
+mere  ->  صرف
+mythology  ->  اسطوره شناسی
+provoke  ->  تحریک
+condemn  ->  محکوم کردن
+condensed  ->  متراکم شده است
+basement  ->  زیر زمین
+polar  ->  قطبی
+chase  ->  تعقیب
+sake  ->  منظور
+twig  ->  شاخه
+rescue  ->  نجات
+pile  ->  توده
+impose  ->  تحمیل کند
+ambitious  ->  جاه طلب
+seize  ->  تصاحب کردن
+hack  ->  هک کردن
+diverse  ->  گوناگون، متنوع
+guy  ->  پسر
+genre  ->  ژانر. دسته
+except  ->  بجز
+limp  ->  لنگی
+secrecy  ->  رازداری
+core  ->  هسته
+genuine  ->  اصل
+secret  ->  راز
+marrow  ->  مغز
+input  ->  ورودی
+remote  ->  از راه دور
+elementary  ->  ابتدایی
+isolate  ->  منزوی
+await  ->  در انتظار
+cabin  ->  کابین
+convert  ->  تبدیل
+accordingly  ->  بر این اساس
+hygiene  ->  بهداشت
+wreck  ->  خراب کردن
+particle  ->  ذره
+height  ->  ارتفاع
+dependence  ->  وابستگی
+apartment  ->  اپارتمان
+vivacious  ->  سرزنده
+heritage  ->  میراث
+whole  ->  کل
+clockwise  ->  در جهت عقربه های ساعت
+convey  ->  انتقال
+band  ->  باند
+ashamed  ->  شرمنده
+paw  ->  پنجه
+misguided  ->  گمراه شده
+compatible  ->  سازگار
+cub  ->  توله
+capable  ->  توانا
+joint  ->  مفصل
+promote  ->  ترویج
+erupt  ->  فوران
+guts  ->  دل و روده
+wax  ->  موم
+accomplish  ->  انجام دهد
+sue  ->  شکایت کند
+audience  ->  حضار
+meditate  ->  مدیتیشن
+source  ->  منبع
+value  ->  ارزش
+classic  ->  کلاسیک
+expense  ->  هزینه
+miner  ->  معدن کار
+extra  ->  اضافی
+senator  ->  سناتور
+janitor  ->  سرایدار
+renovate  ->  بازسازی کند
+crew  ->  خدمه
+couch  ->  نیمکت
+trim  ->  کوتاه کردن
+honesty  ->  صداقت
+adapt  ->  سازگار شدن
+nerve  ->  عصب
+mission  ->  ماموریت
+goal  ->  هدف
+critic  ->  منتقد
+react  ->  واکنش نشان دهند
+hihhp  ->  هههه
+multiply  ->  تکثیر کردن
+basin  ->  حوضه
+pleasure  ->  لذت
+spot  ->  نقطه
+echo  ->  اکو
+wool  ->  پشم
+donate  ->  اهدا کنند
+shine  ->  درخشیدن
+turf  ->  چمن
+typical  ->  معمول
+cumulative  ->  انباشته
+rough  ->  خشن
+crown  ->  تاج پادشاهی
+rot  ->  پوسیدگی
+govern  ->  حکومت کنند
+barley  ->  جو
+prefer  ->  ترجیح می دهند
+bind  ->  بستن
+conclusion  ->  نتیجه
+wallet  ->  کیف پول
+asteroid  ->  سیارک
+landlord  ->  صاحب خانه
+graze  ->  چراندن
+hitchhike  ->  مسافرت مفتی
+recruit  ->  استخدام کنند
+owe  ->  مدیون
+repay  ->  بازپرداخت
+revere  ->  احترام گذاشتن
+dense  ->  متراکم
+deplete  ->  خالی کردن
+web  ->  وب
+annoy  ->  آزار دادن
+viral  ->  ویروسی
+lean  ->  لاغر
+local  ->  محلی
+criticism  ->  انتقاد
+adopt  ->  اتخاذ کردن
+enchant  ->  مسحور کردن
+rude  ->  بی ادب
+tact  ->  تدبیر
+sodium  ->  سدیم
+steward  ->  مباشر
+retrieve  ->  بازیابی
+prosper  ->  رونق
+inventory  ->  فهرست
+theater  ->  تئاتر
+salary  ->  حقوق
+frequent  ->  زود زود
+nut  ->  مهره
+elapse  ->  گذشت
+burst  ->  ترکیدن
+suspicious  ->  مشکوک
+merge  ->  ادغام
+technician  ->  تکنسین
+slip  ->  لیز خوردن
+race  ->  نژاد
+actually  ->  در حقیقت
+resolution  ->  وضوح
+span  ->  طول
+gain  ->  کسب کردن
+priority  ->  اولویت
+compile  ->  گردآوری
+warrior  ->  جنگجو
+version  ->  نسخه
+sight  ->  منظره
+upper  ->  بالا
+arc  ->  قوس
+migrate  ->  مهاجرت
+wagon  ->  واگن
+apart  ->  جدا از هم
+fever  ->  تب
+flip  ->  تلنگر
+invent  ->  اختراع کردن
+horrified  ->  وحشت زده
+originate  ->  سرچشمه
+propel  ->  سوق دادن
+environment  ->  محیط
+enthusiastic  ->  مشتاق
+valley  ->  دره
+awake  ->  بیدار
+scheme  ->  طرح
+grocer  ->  بقالی
+element  ->  عنصر
+surface  ->  سطح
+chef  ->  سرآشپز
+fool  ->  احمق
+terrace  ->  تراس
+anxiety  ->  اضطراب
+fail  ->  مردود شدن
+rod  ->  میله
+wave  ->  موج
+vote  ->  رای
+ingenious  ->  مبتکرانه
+vanity  ->  غرور
+rubbish  ->  زباله
+worm  ->  کرم
+bin  ->  صندوقچه
+inadvertent  ->  سهوی
+junior  ->  جوان
+detect  ->  تشخیص
+mean  ->  منظور داشتن
+quiver  ->  لرزش
+attention  ->  توجه
+dynamic  ->  پویا
+weird  ->  عجیب و غریب
+van  ->  ون
+disprove  ->  رد کردن
+beside  ->  در كنار
+relative  ->  نسبت فامیلی
+undergraduate  ->  کارشناسی
+straightforward  ->  سرراست
+oracle  ->  اوراکل
+increase  ->  افزایش دادن
+approach  ->  رویکرد
+define  ->  تعریف کردن
+unique  ->  منحصر بفرد
+circuit  ->  جریان
+disturb  ->  مزاحم
+toxic  ->  سمی
+retain  ->  حفظ
+nutrient  ->  ماده مغذی
+accustomed  ->  عادت کرده
+verge  ->  لبه
+term  ->  مدت، اصطلاح
+acute  ->  حاد
+lift  ->  بلند کردن
+deform  ->  تغییر شکل دادن
+pasture  ->  مرتع
+beg  ->  گدایی کردن
+nursery  ->  مهد کودک
+poverty  ->  فقر
+suggest  ->  پیشنهاد می دهد
+guarantee  ->  ضمانت
+export  ->  صادرات
+waver  ->  تزلزل
+beloved  ->  محبوب
+protest  ->  اعتراض
+further  ->  به علاوه
+effective  ->  تاثير گذار
+likeness  ->  شباهت
+fabric  ->  پارچه
+responsible  ->  مسئول
+leather  ->  چرم
+accept  ->  تایید کنید
+odor  ->  بو
+via  ->  از طریق
+desert  ->  کویر
+poll  ->  نظرسنجی
+staff  ->  کارکنان
+suicide  ->  خودکشی کردن
+wheat  ->  گندم
+sacred  ->  مقدس
+empire  ->  امپراتوری
+chat  ->  چت کردن
+audit  ->  حسابرسی
+whisper  ->  نجوا
+badly  ->  بد
+otherwise  ->  در غیر این صورت
+therapeutic  ->  درمانی
+theorize  ->  نظریه پردازی
+consequent  ->  در نتیجه
+impending  ->  قریب الوقوع
+disguise  ->  مبدل کردن
+nor  ->  نه
+negative  ->  منفی
+torch  ->  مشعل
+impolite  ->  بی ادب
+several  ->  چندین
+tolerant  ->  متحمل
+alley  ->  کوچه
+label  ->  برچسب
+precipitate  ->  رسوب می کند
+persecute  ->  آزار و اذیت
+dread  ->  وحشت
+continent  ->  قاره
+visible  ->  قابل رویت
+miniature  ->  مینیاتوری
+reckless  ->  بی پروا
+allege  ->  ادعا کردن
+literary  ->  ادبی
+pace  ->  سرعت
+reward  ->  جایزه
+kid  ->  بچه
+decay  ->  پوسیدگی
+underlying  ->  اساسی
+tobacco  ->  تنباکو
+calculus  ->  حساب دیفرانسیل و انتگرال
+undergo  ->  تحت
+biological  ->  بیولوژیکی
+ignorance  ->  جهل
+tusk  ->  عاج
+terror  ->  وحشت
+contrast  ->  تضاد
