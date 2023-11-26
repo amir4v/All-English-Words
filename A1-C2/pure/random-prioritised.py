@@ -23,4 +23,11 @@ for i in range(1, len(ALL)+1):
 
 pr = PR(COMBINED)
 
+"""
+result = ''
+for word in pr.all():
+    result += f'"{word}",\n'
+open('words.all', 'wt', encoding='utf-8').write(result)
+"""
+
 print(pr.choices(10))

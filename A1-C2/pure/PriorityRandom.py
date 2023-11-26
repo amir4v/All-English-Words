@@ -34,6 +34,9 @@ class PriorityRandom:
         return list(
             item() for item in repeat(self.choice, n)
         )
+    
+    def all(self):
+        return [self.items[i][0] for i in self.the_list]
 
 
 class PR(PriorityRandom):
