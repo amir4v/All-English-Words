@@ -123,7 +123,7 @@ think
 work
 group
 ant
-she
+s/he
 something
 it
 take
@@ -150,7 +150,7 @@ syn
 any
 eng
 lang
-don’t
+don't
 different
 does
 amount
@@ -200,7 +200,7 @@ going
 them
 hard
 help
-it’s
+it's
 law
 come
 need
@@ -210,7 +210,7 @@ together
 change
 type
 first
-i’m
+i'm
 tense
 often
 right
@@ -218,7 +218,7 @@ car
 set
 singular
 tell
-someone’s
+someone's
 against
 form
 him
@@ -241,7 +241,7 @@ written
 special
 could
 really
-sbsth
+sb/sth
 high
 able
 talk
@@ -277,10 +277,10 @@ greek
 substance
 man
 still
-hisher
+his/her
 someone
 during
-he’s
+he's
 words
 liquid
 thin
@@ -310,7 +310,7 @@ book
 shows
 got
 leave
-himher
+him/her
 working
 completely
 side
@@ -369,7 +369,7 @@ happening
 abbreviation
 idea
 great
-can’t
+can't
 social
 literary
 serious
@@ -392,9 +392,9 @@ believe
 clothes
 turn
 seem
-i’ll
-animals
+i'll
 saying
+animals
 situation
 chemistry
 front
@@ -435,14 +435,14 @@ event
 buy
 television
 stay
-she’s
+she's
 child
 pieces
 subject
 close
 few
 ideas
-i’ve
+i've
 result
 thick
 disapproving
@@ -464,7 +464,7 @@ officially
 thinking
 place
 rather
-didn’t
+didn't
 easy
 opinion
 happens
@@ -483,14 +483,14 @@ medical
 american
 both
 time
-we’re
+we're
 true
 changes
 across
 parents
-sports
 kept
 do
+sports
 again
 cause
 science
@@ -523,7 +523,7 @@ run
 red
 slightly
 blood
-sb’s
+sb's
 happy
 store
 walk
@@ -599,7 +599,7 @@ taking
 gave
 formal
 whole
-you’re
+you're
 four
 occasion
 playing
@@ -637,7 +637,7 @@ musical
 hear
 sharp
 year
-there’s
+there's
 weather
 physical
 chemical
@@ -713,7 +713,7 @@ watch
 upset
 question
 her
-let’s
+let's
 events
 waste
 illegal
@@ -724,7 +724,7 @@ available
 ship
 protect
 straight
-people’s
+people's
 unpleasant
 spend
 instead
@@ -761,7 +761,7 @@ catch
 time
 looked
 dangerous
-himher
+him/her
 tried
 attack
 event
@@ -788,7 +788,7 @@ gets
 seen
 mouth
 though
-i’d
+i'd
 death
 questions
 above
@@ -837,7 +837,7 @@ ideas
 structure
 glass
 certain
-what’s
+what's
 dog
 phrases
 practice
@@ -889,11 +889,11 @@ interested
 food
 born
 develop
-doesn’t
+doesn't
 within
 report
 sun
-we’ll
+we'll
 clothing
 heat
 shown
@@ -912,7 +912,7 @@ strongly
 decided
 members
 wild
-that’s
+that's
 local
 night
 south
@@ -935,7 +935,7 @@ asked
 held
 finally
 solid
-you’ll
+you'll
 powerful
 letters
 record

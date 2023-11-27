@@ -123,7 +123,7 @@ think
 work
 group
 ant
-she
+s/he
 something
 it
 take
@@ -150,7 +150,7 @@ syn
 any
 eng
 lang
-don’t
+don't
 different
 does
 amount
@@ -200,7 +200,7 @@ going
 them
 hard
 help
-it’s
+it's
 law
 come
 need
@@ -210,7 +210,7 @@ together
 change
 type
 first
-i’m
+i'm
 tense
 often
 right
@@ -218,7 +218,7 @@ car
 set
 singular
 tell
-someone’s
+someone's
 against
 form
 him
@@ -241,7 +241,7 @@ written
 special
 could
 really
-sbsth
+sb/sth
 high
 able
 talk
@@ -277,10 +277,10 @@ greek
 substance
 man
 still
-hisher
+his/her
 someone
 during
-he’s
+he's
 words
 liquid
 thin
@@ -310,7 +310,7 @@ book
 shows
 got
 leave
-himher
+him/her
 working
 completely
 side
@@ -369,7 +369,7 @@ happening
 abbreviation
 idea
 great
-can’t
+can't
 social
 literary
 serious
@@ -392,9 +392,9 @@ believe
 clothes
 turn
 seem
-i’ll
-animals
+i'll
 saying
+animals
 situation
 chemistry
 front
@@ -435,14 +435,14 @@ event
 buy
 television
 stay
-she’s
+she's
 child
 pieces
 subject
 close
 few
 ideas
-i’ve
+i've
 result
 thick
 disapproving
@@ -464,7 +464,7 @@ officially
 thinking
 place
 rather
-didn’t
+didn't
 easy
 opinion
 happens
@@ -483,14 +483,14 @@ medical
 american
 both
 time
-we’re
+we're
 true
 changes
 across
 parents
-sports
 kept
 do
+sports
 again
 cause
 science
@@ -523,7 +523,7 @@ run
 red
 slightly
 blood
-sb’s
+sb's
 happy
 store
 walk
@@ -599,7 +599,7 @@ taking
 gave
 formal
 whole
-you’re
+you're
 four
 occasion
 playing
@@ -637,7 +637,7 @@ musical
 hear
 sharp
 year
-there’s
+there's
 weather
 physical
 chemical
@@ -713,7 +713,7 @@ watch
 upset
 question
 her
-let’s
+let's
 events
 waste
 illegal
@@ -724,7 +724,7 @@ available
 ship
 protect
 straight
-people’s
+people's
 unpleasant
 spend
 instead
@@ -761,7 +761,7 @@ catch
 time
 looked
 dangerous
-himher
+him/her
 tried
 attack
 event
@@ -788,7 +788,7 @@ gets
 seen
 mouth
 though
-i’d
+i'd
 death
 questions
 above
@@ -837,7 +837,7 @@ ideas
 structure
 glass
 certain
-what’s
+what's
 dog
 phrases
 practice
@@ -889,11 +889,11 @@ interested
 food
 born
 develop
-doesn’t
+doesn't
 within
 report
 sun
-we’ll
+we'll
 clothing
 heat
 shown
@@ -912,7 +912,7 @@ strongly
 decided
 members
 wild
-that’s
+that's
 local
 night
 south
@@ -935,7 +935,7 @@ asked
 held
 finally
 solid
-you’ll
+you'll
 powerful
 letters
 record
@@ -972,7 +972,6 @@ sweet
 kill
 plastic
 tall
-sounds
 father
 him
 her
@@ -985,8 +984,8 @@ fighting
 touch
 share
 married
-trees
 broken
+sounds
 plural
 exist
 value
@@ -997,6 +996,7 @@ secret
 greek
 green
 legs
+trees
 sometimes
 bill
 knowledge
@@ -1120,7 +1120,7 @@ hotel
 dry
 laws
 treatment
-country’s
+country's
 centuries
 seemed
 size
@@ -1197,7 +1197,7 @@ nuclear
 cars
 train
 election
-we’ve
+we've
 purpose
 taste
 expected
@@ -1226,7 +1226,7 @@ alcohol
 stomach
 continuing
 today
-couldn’t
+couldn't
 bad
 determined
 financial
@@ -1359,7 +1359,7 @@ king
 supply
 directly
 driving
-won’t
+won't
 laugh
 bag
 sky
@@ -1380,7 +1380,7 @@ yellow
 painting
 direct
 boy
-wasn’t
+wasn't
 finished
 finish
 effects
@@ -1450,7 +1450,7 @@ apart
 dance
 forget
 animals
-company’s
+company's
 wood
 article
 girl
@@ -1473,7 +1473,6 @@ war
 size
 game
 caught
-names
 not
 advice
 tells
@@ -1481,7 +1480,7 @@ learning
 understand
 offer
 bought
-they’re
+they're
 became
 america
 stood
@@ -1492,6 +1491,7 @@ horse
 yet
 return
 final
+names
 key
 refuse
 house
@@ -1557,7 +1557,7 @@ shut
 wooden
 guess
 ride
-isn’t
+isn't
 roll
 informal
 others
@@ -1711,7 +1711,7 @@ vote
 computers
 late
 metal
-earth’s
+earth's
 belongs
 unhappy
 ahead
@@ -1737,7 +1737,7 @@ chosen
 development
 used
 southern
-wouldn’t
+wouldn't
 accepted
 smoking
 with
@@ -1875,7 +1875,7 @@ liquid
 angry
 admit
 acceptable
-he’d
+he'd
 earlier
 winning
 argument
@@ -1953,12 +1953,12 @@ state
 arabic
 wrong
 strength
-person’s
+person's
 services
 sick
 carried
 off
-children’s
+children's
 relaxed
 pole
 enemy
@@ -2091,11 +2091,10 @@ birth
 dinner
 right
 teams
-features
 annoy
 problems
 year
-mother’s
+mother's
 separated
 apartment
 be
@@ -2106,7 +2105,7 @@ movements
 store
 rub
 turning
-woman’s
+woman's
 due
 whatever
 pleased
@@ -2137,10 +2136,11 @@ worst
 chocolate
 crazy
 feature
+features
 previous
-haven’t
+haven't
 on
-you’ve
+you've
 beer
 raw
 countries
@@ -2161,7 +2161,7 @@ loss
 choice
 confused
 carries
-onupon
+on/upon
 facts
 holds
 street
@@ -2306,7 +2306,7 @@ income
 suggest
 needing
 guy
-child’s
+child's
 remains
 evening
 am
@@ -2432,7 +2432,7 @@ over
 for
 decision
 crack
-else’s
+else's
 fans
 unfairly
 upset
@@ -2457,14 +2457,14 @@ pile
 liking
 building
 company
-he’ll
+he'll
 in
-city’s
+city's
 end
 magazine
 row
 plastic
-they’ve
+they've
 emotion
 energy
 hand
@@ -2500,7 +2500,7 @@ humor
 pour
 outdoor
 taste
-man’s
+man's
 situations
 welcome
 title
@@ -2561,7 +2561,6 @@ cotton
 rent
 map
 washing
-verbs
 affecting
 sex
 tom
@@ -2583,7 +2582,6 @@ working
 tonight
 rule
 courage
-technology
 pure
 ago
 passage
@@ -2636,6 +2634,7 @@ ear
 letters
 unless
 friday
+verbs
 dislike
 company
 recorded
@@ -2648,6 +2647,7 @@ parking
 opic
 tricks
 email
+technology
 fully
 turns
 book
@@ -2682,7 +2682,7 @@ around
 hit
 brightly
 head
-hasn’t
+hasn't
 tired
 seriously
 excuse
@@ -2726,7 +2726,7 @@ strongly
 crime
 movies
 machines
-women’s
+women's
 newspaper
 very
 passengers
@@ -2745,7 +2745,7 @@ of
 attracted
 question
 to
-you’d
+you'd
 winter
 alarge
 dropped
@@ -2782,16 +2782,16 @@ pushing
 system
 charged
 divorce
-car’s
+car's
 tape
 brings
 difficulties
 radio
 movie
 wall
-father’s
+father's
 yourself
-i’m
+i'm
 africa
 originally
 star
@@ -2815,7 +2815,7 @@ all
 except
 brush
 honor
-president’s
+president's
 cities
 live
 value
@@ -2838,7 +2838,7 @@ repeat
 belt
 successful
 shine
-animal’s
+animal's
 teaches
 measurement
 cut
@@ -3144,7 +3144,7 @@ research
 detailed
 table
 smoke
-himher
+him/her
 realized
 alarm
 advertisement
@@ -3174,7 +3174,7 @@ cold
 climb
 enjoyable
 unemployment
-team’s
+team's
 humorous
 wool
 unfair
@@ -3237,7 +3237,7 @@ annoyed
 wires
 existed
 pollution
-weren’t
+weren't
 child
 frightening
 vulgar
@@ -3364,7 +3364,7 @@ receives
 repeating
 un
 ago
-o’clock
+o'clock
 plant
 issue
 china
@@ -3399,13 +3399,13 @@ lean
 basket
 document
 facts
-who’s
+who's
 jumped
 corner
 food
 fire
 glass
-we’d
+we'd
 cheerful
 hair
 useful
@@ -3513,17 +3513,17 @@ beach
 needed
 curve
 hammer
-baby’s
+baby's
 late
 decision
 broad
 supreme
 catching
-aren’t
+aren't
 politics
 night
 arrested
-sbsth
+sb/sth
 advice
 me
 state
@@ -3553,7 +3553,7 @@ eggs
 places
 catholic
 drink
-it’ll
+it'll
 birthday
 red
 waist
@@ -3615,7 +3615,7 @@ line
 wife
 proof
 authority
-year’s
+year's
 satisfactory
 wealth
 books
@@ -3641,14 +3641,14 @@ incident
 permanent
 sincere
 afford
-she’d
+she'd
 contact
 association
 follows
 continued
 shared
 air
-shouldn’t
+shouldn't
 danger
 frightened
 dangerous
@@ -3686,7 +3686,7 @@ climbing
 asleep
 power
 sorry
-goodbad
+good/bad
 ocean
 explosion
 attend
@@ -3703,7 +3703,7 @@ thoroughly
 hook
 hit
 profession
-hadn’t
+hadn't
 law
 mouse
 eyes
@@ -3714,7 +3714,7 @@ song
 dirty
 etc
 prisoner
-it’s
+it's
 stayed
 property
 generous
@@ -3837,7 +3837,7 @@ crowd
 globe
 furniture
 nowhere
-men’s
+men's
 grand
 formally
 process
@@ -3981,7 +3981,7 @@ atmosphere
 pain
 hurt
 refusing
-she’ll
+she'll
 threatened
 is
 hearing
@@ -4006,10 +4006,10 @@ in
 muslim
 pain
 coal
-that’s
+that's
 nuts
 goodbye
-highlow
+high/low
 spaces
 amounts
 surprising
@@ -4158,12 +4158,12 @@ usual
 customers
 novels
 meals
-court’s
+court's
 bombs
 throw
 repairs
 ms
-school’s
+school's
 widely
 silence
 ben
@@ -4258,7 +4258,7 @@ hunting
 blend
 she
 gang
-beget
+be/get
 faith
 relations
 years
@@ -4294,7 +4294,7 @@ laws
 distant
 deserving
 factor
-world’s
+world's
 matters
 attitude
 earth
@@ -4432,10 +4432,10 @@ forcing
 orders
 process
 snow
-students
+students'
 serious
 nerve
-student’s
+student's
 sits
 store
 grocery
@@ -4600,7 +4600,7 @@ fire
 alcohol
 employment
 certainly
-parents
+parents'
 is
 checked
 rows
@@ -4901,7 +4901,7 @@ surprised
 battle
 trees
 directly
-o’clock
+o'clock
 york
 cow
 animals
@@ -5009,7 +5009,7 @@ owner
 firm
 go
 grabbed
-dad’s
+dad's
 brad
 established
 advantage
@@ -5154,7 +5154,7 @@ newest
 weigh
 disadvantage
 recession
-onabout
+on/about
 recommend
 violence
 texas
@@ -5178,7 +5178,7 @@ reading
 sentence
 history
 jacket
-driver’s
+driver's
 destroys
 poor
 him
@@ -5398,7 +5398,7 @@ sky
 dirt
 gross
 sailing
-o’clock
+o'clock
 elbow
 magnetic
 active
@@ -5445,7 +5445,7 @@ total
 heat
 animals
 july
-government’s
+government's
 education
 trains
 invitation
@@ -5621,7 +5621,7 @@ sure
 lane
 possessions
 kelly
-america’s
+america's
 leave
 excitement
 the
@@ -5639,7 +5639,7 @@ sewn
 alcohol
 depressed
 informalasmall
-bird’s
+bird's
 chew
 crushing
 oppose
@@ -5663,7 +5663,7 @@ abook
 cheaper
 shelf
 popularity
-movie’s
+movie's
 stop
 movies
 call
@@ -5717,7 +5717,7 @@ onion
 protective
 circuit
 public
-family’s
+family's
 heels
 tightly
 lessons
@@ -5753,7 +5753,7 @@ orthodox
 conversation
 steak
 larry
-today’s
+today's
 fee
 young
 many
@@ -5764,7 +5764,7 @@ jet
 heads
 next
 steals
-other’s
+other's
 severely
 ripe
 oval
@@ -5872,7 +5872,7 @@ player
 deposit
 investors
 greenhouse
-boy’s
+boy's
 illegal
 test
 flame
@@ -5913,7 +5913,7 @@ centuries
 lying
 item
 not
-aboutover
+about/over
 warming
 yes
 introduced
@@ -5969,7 +5969,7 @@ proper
 signing
 ideal
 bridge
-computer’s
+computer's
 park
 trouble
 soviet
@@ -6012,7 +6012,7 @@ cell
 seventh
 six
 george
-tom’s
+tom's
 minute
 turn
 palm
@@ -6055,7 +6055,7 @@ deaf
 sheets
 makeadecision
 ask
-sbsth
+sb/sth
 factories
 possible
 read
@@ -6214,7 +6214,7 @@ convention
 islam
 loving
 cookie
-up
+'up
 copied
 yes
 expense
@@ -6264,7 +6264,7 @@ certain
 period
 plays
 trace
-ice
+'ice
 planted
 the
 anxious
@@ -6282,7 +6282,7 @@ speeches
 rigid
 need
 part
-befeel
+be/feel
 whip
 movements
 freeze
@@ -6382,7 +6382,7 @@ things
 lead
 said
 arrangement
-onoff
+on/off
 customs
 al
 sounded
@@ -6434,7 +6434,7 @@ broadway
 paint
 california
 reporter
-patient’s
+patient's
 temperature
 science
 chart
@@ -6470,10 +6470,10 @@ build
 stand
 with
 danger
-senator’s
+senator's
 parker
 rate
-how’s
+how's
 secure
 join
 staple
@@ -6519,7 +6519,7 @@ punch
 injured
 cruel
 naked
-goodgreat
+good/great
 deal
 negotiations
 wages
@@ -6546,7 +6546,7 @@ umbrella
 confused
 performance
 fun
-they’ll
+they'll
 good
 vast
 borrowed
@@ -6612,7 +6612,7 @@ turkey
 crowded
 bride
 bands
-horse’s
+horse's
 sunny
 demonstration
 available
@@ -6780,7 +6780,7 @@ practices
 distance
 you
 philosophy
-husband’s
+husband's
 handed
 rain
 dragged
@@ -6790,7 +6790,7 @@ rejected
 wet
 drift
 exercise
-updown
+up/down
 throat
 apartment
 north
@@ -6815,7 +6815,7 @@ athletes
 enjoyable
 weighing
 unsure
-fire
+'fire
 sight
 narrator
 glisten
@@ -6914,7 +6914,7 @@ celsius
 learn
 gripping
 riveting
-body’s
+body's
 alcohol
 disagreeing
 ann
@@ -6942,7 +6942,7 @@ instructor
 secretary
 meetings
 hospital
-tonight’s
+tonight's
 journalists
 adult
 wife
@@ -6967,12 +6967,12 @@ farms
 replaced
 us
 sth
-state’s
-air
+state's
+'air
 by
 suspected
 uses
-don’t
+don't
 america
 aspirin
 english
@@ -6992,7 +6992,7 @@ always
 singing
 noon
 video
-inwith
+in/with
 mount
 attack
 en
@@ -7013,7 +7013,7 @@ anger
 cruel
 excitement
 winners
-sister’s
+sister's
 yearly
 slight
 disappointing
@@ -7026,11 +7026,11 @@ evident
 conviction
 judge
 condition
-mom’s
+mom's
 funds
 billion
 april
-society’s
+society's
 enthusiastic
 northwest
 territory
@@ -7046,7 +7046,7 @@ journey
 painter
 paints
 america
-what’s
+what's
 vicky
 violently
 bar
@@ -7118,13 +7118,13 @@ toilet
 runner
 batter
 hit
-sthsb
+sth/sb
 conditional
 ears
 beat
 south
 bang
-where’s
+where's
 me
 drum
 young
@@ -7132,7 +7132,7 @@ sofa
 london
 woods
 yesterday
-they’d
+they'd
 homeless
 jealous
 shout
@@ -7264,7 +7264,7 @@ subsidiary
 bust
 informalasituation
 get
-i’ll
+i'll
 supermarket
 complaints
 underground
@@ -7293,7 +7293,7 @@ developing
 deaths
 cave
 occasion
-cell
+'cell
 politically
 table
 campaign
@@ -7309,7 +7309,7 @@ cost
 pretends
 cheat
 partner
-something’s
+something's
 cheek
 moist
 uncomfortable
@@ -7475,7 +7475,7 @@ flow
 left
 costs
 mist
-northsoutheastwest
+north/south/east/west
 loud
 dynamic
 energetic
@@ -7489,7 +7489,7 @@ difficulties
 pulls
 flavor
 fantastic
-an
+'an
 perception
 competitors
 along
@@ -7498,7 +7498,7 @@ wonderful
 travel
 today
 road
-wife’s
+wife's
 high
 temper
 eye
@@ -7506,7 +7506,7 @@ microscope
 carl
 rival
 settlement
-lastnext
+last/next
 one
 principle
 fate
@@ -7570,7 +7570,7 @@ much
 smear
 statistics
 notice
-power
+'power
 odds
 slick
 straighten
@@ -7624,7 +7624,7 @@ arrest
 capability
 gift
 apology
-mike’s
+mike's
 australian
 shuttle
 pregnancy
@@ -7755,7 +7755,7 @@ wounds
 piles
 events
 cut
-within
+with/in
 funny
 reduces
 identify
@@ -7819,7 +7819,7 @@ pi
 clever
 circle
 societies
-writer’s
+writer's
 arctic
 challenging
 canadian
@@ -7837,4 +7837,3 @@ troops
 oils
 smell
 existing
-dazzling
