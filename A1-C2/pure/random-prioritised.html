@@ -8,7 +8,7 @@
 <body style="padding: 3%; margin: 3%;">
     <h1 id="content" style="font-size: 3em; text-align: center;"></h1>
     <br><br><br>
-    <button onclick="refresh()" style="font-size: 2em; width: 100%; height: 3em;">new</button>
+    <button onclick="refresh()" style="font-size: 1.5em; width: 100%; height: 3em;">new</button>
     
     <script>
         var words = [
@@ -140490,7 +140490,7 @@
         
         function refresh(){
             var word = words[random(0, words.length)];
-            document.getElementById("content").innerHTML = word;
+            document.getElementById("content").innerHTML = `<a target="_blank" style="text-decoration: none; color: rgb(33, 33, 33);" href="https://www.ldoceonline.com/dictionary/${word}">${word}</a>`;
         }
         
         refresh();
