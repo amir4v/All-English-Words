@@ -140490,7 +140490,17 @@
         
         function refresh(){
             var word = words[random(0, words.length)];
-            document.getElementById("content").innerHTML = `<a target="_blank" style="text-decoration: none; color: rgb(33, 33, 33);" href="https://www.ldoceonline.com/dictionary/${word}">${word}</a>`;
+            document.getElementById("content").innerHTML = `<a
+                target="_blank"
+                style="
+                    text-decoration: underline;
+                    background-color: #f7f7eb;
+                    padding: 2%;
+                    border-radius: 5px;
+                    border: 1px solid #f1ebeb;
+                    color: rgb(33, 33, 33);"
+                href="https://www.ldoceonline.com/dictionary/${word}"
+                >${word}</a>`;
         }
         
         refresh();
