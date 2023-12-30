@@ -3496,6 +3496,7 @@ energetic
 enjoyment
 inquire
 insure
+ensure
 entertainer
 entertaining
 enthusiasm
