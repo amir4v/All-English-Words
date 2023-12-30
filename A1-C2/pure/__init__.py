@@ -1,9 +1,12 @@
 #TODO:
 """
 - definition of each word of A1-C2 words with synonym and antonym
+	*** https://dictionary.langeek.co/
+ 	
 	* https://www.ldoceonline.com/dictionary/WORD
-	* https://dictionary.langeek.co/
-	https://www.oxfordlearnersdictionaries.com/definition/english/WORD
+ 	
+	* https://www.oxfordlearnersdictionaries.com/definition/english/WORD
+ 	
 	https://www.dictionary.com/browse/WORD
 	-
 	https://www.englisch-hilfen.de/en/words_inhalt.htm
