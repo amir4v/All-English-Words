@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letterize-Memorize</title>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body style="background-color: beige;">
+    <div style="font-family: 'Vazir Code'; margin: 1%; padding: 1%;">
+        <center>
+            <br><br><br>
+            <br><br><br>
+            <br><br><br>
+            <h1 id="word" style="font-size: 3em;"></h1>
+        </center>
+    </div>
+    
+    <p>
+        <br><br><br><br><br><br><br><br>
+        <p id="count"></p>
+    </p>
+    
+    <script>
+        var id = 0;
+        var word = '';
+        var count = 0;
+        
+        function reset(data={}){
+            $.post(url='/do-you-know/', data=data, success=function(data){
+                data = JSON.parse(data);
+                id = data.id;
+                word = data.word;
+                count = data.count;
+                $('#word').html(data.word);
+                $('#count').html(data.count);
+            });
+        }
+        
+        reset();
+        
+        $(document).keydown(function(e){
+            if(e.code == 'ArrowRight'){
+                reset({
+                    id: id,
+                    word: word,
+                    direction: +1
+                });
+            }
+            if(e.code == 'ArrowLeft'){
+                reset({
+                    id: id,
+                    word: word,
+                    direction: -1
+                });
+            }
+        });
+    </script>
+</body>
+</html>
